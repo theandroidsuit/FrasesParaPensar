@@ -1,0 +1,2720 @@
+{
+  "pensamientos":[
+    {
+     "frase":"No se puede amar lo que no se conoce",
+     "autor":"Tomás de Aquino"
+    },
+    {
+     "frase":"Se puede morir con dignidad; pero jamás se podrá matar con dignidad",	
+     "autor":"Unamuno"
+    },
+    {
+     "frase":"La queja siempre trae descrédito",	
+     "autor":"Batasar Gracián"
+    },
+    {
+     "frase":"La fé no es creer lo que no vimos, sino crear lo que no vemos",	
+     "autor":"Unamuno"
+    },
+    {
+     "frase":"No basta con tener éxito; otros tienen que fracasar",	
+     "autor":"Gore Vidal"
+    },
+    {
+     "frase":"El pragmatismo es el disfraz de la inmoralidad",	
+     "autor":"Baura"
+    },
+    {
+     "frase":"Poseed las cosas que nadie os puede quitar",	
+     "autor":"Sexto 'El pitagórico'"
+    },
+    {
+     "frase":"Solamente hay dos cosas infinitas: el universo y la estupidez humana",	
+     "autor":"Einstein"
+    },
+    {
+     "frase":"Cuando soy buena, soy muy buena; pero cuando soy mala, soy mejor",	
+     "autor":"Mae West"
+    },
+    {
+     "frase":"Los hombres pueden dividirse en tres clases: los que creen ser donjuanes, los que creen haberlo sido y los que creen haberlo podido ser pero no quisieron",	
+     "autor":"Ortega y Gasset"
+    },
+    {
+     "frase":"Los libros tienen los mismos enemigos que el hombre; el fuego, la humedad, los animales, el tiempo, y su propio contenido",	
+     "autor":"Paul Valery"
+    },
+    {
+     "frase":"El escritor origninal no es aquél que no imita a nadie, sino aquél a quien nadie puede imitar",	
+     "autor":"Chateaubriand"
+    },
+    {
+     "frase":"La vida es un hospital donde cada enfermo está poseido por el deseo de cambiar de cama",	
+     "autor":"Charles Baudelaire"
+    },
+    {
+     "frase":"La indiferencia hace sabios y la insensibilidad monstruos",	
+     "autor":"Denis Diderot"
+    },
+    {
+     "frase":"En lo material la bella medianía es más segura que la megalomanía",	
+     "autor":"Demócrito de Abdera (460-370 a.C)"
+    },
+    {
+     "frase":"Leer es el único acto soberano que nos queda",	
+     "autor":"Antonio Muñoz (escritor)"
+    },
+    {
+     "frase":"Yo antes era vanidosa, pero me curé, y ahora soy perfecta",	
+     "autor":"Anónimo"
+    },
+    {
+     "frase":"Es fácil morir por una mujer; lo difícil es vivir con ella",	
+     "autor":"Anónimo"
+    },
+    {
+     "frase":"Vanidad...el sitio en que los débiles y los tontos son más vulnerables",	
+     "autor":"Mark Twain"
+    },
+    {
+     "frase":"Nunca digas la verdad a gente que no la merece",	
+     "autor":"Mark Twain"
+    },
+    {
+     "frase":"Apresúrate; no te fíes de las horas venideras. El que hoy no está dispuesto, menos lo estará mañana",	
+     "autor":"Ovidio"
+    },
+    {
+     "frase":"No hay hombre tan cobarde a quien el amor no haga valiente y transforme en héroe",	
+     "autor":"Platón"
+    },
+    {
+     "frase":"Quien puede decir cuanto ama, pequeño amor siente",	
+     "autor":"Petrarca"
+    },
+    {
+     "frase":"Con locos, niños y putas, no negocies ni discutas",	
+     "autor":"Refrán"
+    },
+    {
+     "frase":"El hombre que no ha amado apasionadamente ignora la mitad más bella de la vida",	
+     "autor":"Stendhal"
+    },
+    {
+     "frase":"Todo lo que se llama estudiar y aprender no es otra cosa que recordar",	
+     "autor":"Platón"
+    },
+    {
+     "frase":"Vivitur parvo bene - Se vive bien con poco",
+     "autor":"Horacio"
+    },
+    {
+     "frase":"Después de todo, ¿qué es una mentira? No es otra cosa que la verdad con máscara",	
+     "autor":"Lord Byron"
+    },
+    {
+     "frase":"El pudor murió cuando nacieron los vestidos",	
+     "autor":"Mark Twain"
+    },
+    {
+     "frase":"Nadie es perfecto",	
+     "autor":"Nadie"
+    },
+    {
+     "frase":"Aprovecha el día, fíate del mañana lo menos posible",	
+     "autor":"Horacio"
+    },
+    {
+     "frase":"Nunca se debe dejar que un mal progrese por respeto a un bien, cuando aquel bien puede ser fácilmente aniquilado por ese mal",	
+     "autor":"Nicolás Maquiavelo"
+    },
+    {
+     "frase":"El hombre es un rey cuando sueña y un mendigo cuando piensa",	
+     "autor":"Holderlin"
+    },
+    {
+     "frase":"El rencor es una pequeñez",	
+     "autor":"G. Torrente Ballester"
+    },
+    {
+     "frase":"No hay nada, Antifón, que no pueda ser tergiversado si se cuenta mal",	
+     "autor":"Terencio"
+    },
+    {
+     "frase":"Es injusto que una generación sea comprometida por la precedente. Hay que encontrar un medio que preserve a las venideras de la malicia o insensibilidad de las presentes",	
+     "autor":"Napoleón Bonaparte"
+    },
+    {
+     "frase":"Vale la pena conocer al enemigo... entre otras cosas por la posibilida de que algún día se convierta en un amigo",	
+     "autor":"Margaret Thatcher"
+    },
+    {
+     "frase":"La felicidad que da el dinero está en no tener que preocuparse por él",	
+     "autor":"José Ingenieros"
+    },
+    {
+     "frase":"La filosofía es la que nos distingue de los salvajes y los bárbaros; las naciones son tanto más civilizadas y cultas cuanto mejor filosofan sus hombres",	
+     "autor":"René Descartes"
+    },
+    {
+     "frase":"La intención hace el agravio",	
+     "autor":"Pedro Calderón de la Barca"
+    },
+    {
+     "frase":"Permitir una injusticia significa abrir el camino a todas las que siguen",	
+     "autor":"Willy Brandt"
+    },
+    {
+     "frase":"El dinero es el nervio de la guerra",	
+     "autor":"Cicerón"
+    },
+    {
+     "frase":"El mundo es gobernado por personajes muy distintos de lo que piensan los que no están entre bastidores",	
+     "autor":"Benjamín Disraeli"
+    },
+    {
+     "frase":"La vida es como los espejos. Sonríales y le sonreirán. Póngales mala cara y le resultarán siniestros",	
+     "autor":"Concordia Merrell"
+    },
+    {
+     "frase":"Quien se enfada por las críticas, reconoce que las tenía merecidas",	
+     "autor":"TÁCITO"
+    },
+    {
+     "frase":"Las nociones de rectitud e ilicitud, justicia e injusticia, no tienen lugar en la guerra",	
+     "autor":"THOMAS HOBBES"
+    },
+    {
+     "frase":"El ambiente en el que se mueve la persona la mayor parte del día determina su carácter",	
+     "autor":"ANTIFONTE"
+    },
+    {
+     "frase":"No importa la dirección que tome, siempre será cuesta arriba y contra el viento",	
+     "autor":"PRIMERA LEY DEL CICLISMO"
+    },
+    {
+     "frase":"La vida ofrece a cada criatura su copa de amargura",	
+     "autor":"MANUEL DEL PALACIO"
+    },
+    {
+     "frase":"La política es un acto de equilibrio entre la gente que quiere entrar y aquellos que no quieren salir",	
+     "autor":"J. BOSSUET"
+    },
+    {
+     "frase":"Lo malo de la conciencia es que siempre está hecha a la medida",	
+     "autor":"JACINTO BENAVENTE"
+    },
+    {
+     "frase":"Si no me voy con el cometa Halley será la mayor decepción de mi vida. El Todopoderoso ha dicho sin ninguna duda que somos dos fenómenos inexplicables; hemos llegado juntos y nos iremos juntos",	
+     "autor":"MARK TWAIN",
+     "extra":"Murió al día siguiente de la aparición del Halley, el 20/4/1910. Nació en 1835"
+    },
+    {
+     "frase":"¿Qué es el futuro? ¿Qué es el pasado? ¿Qué somos? ¿Cuál es el fluido mágico que nos rodea y oculta las cosas que más necesitamos saber? Vivimos y morimos en medio de maravillas",	
+     "autor":"NAPOLEÓN BONAPARTE "
+    },
+    {
+     "frase":"La desesperación infunde valor al cobarde",	
+     "autor":"Thomas Fuller"
+    },
+    {
+     "frase":"Detrás de cada gran fortuna hay un delito",	
+     "autor":"H. Balzac"
+    },
+    {
+     "frase":"Creer que un enemigo débil no puede dañarnos, es creer que una chispa no puede incendiar un bosque",	
+     "autor":"Saadi"
+    },
+    {
+     "frase":"La vida no es más que un tejido de hábitos",	
+     "autor":"Henry F. Amiel"
+    },
+    {
+     "frase":"Si un hecho contradice la teoría, debemos abandonar la teoría",	
+     "autor":"Claude Bernard"
+    },
+    {
+     "frase":"Nada tan peligroso como un buen consejo con un mal ejemplo",	
+     "autor":"Madame de Maintenon"
+    },
+    {
+     "frase":"Una mentira nunca vive hasta hacerse vieja",	
+     "autor":"Sófocles"
+    },
+    {
+     "frase":"La hipocresía es el colmo de todas las maldades",	
+     "autor":"Molière"
+    },
+    {
+     "frase":"La incompetencia es tanto más dañina cuento mayor sea el poder del incompetente",	
+     "autor":"Francisco Ayala"
+    },
+    {
+     "frase":"Es en las horas de peligro cuando la patria conoce el quilate de sus hijos",	
+     "autor":"Cicerón"
+    },
+    {
+     "frase":"Ningún pueblo cree en su Gobierno. A lo sumo, los pueblos están resignados",	
+     "autor":"Octavio Paz"
+    },
+    {
+     "frase":"La desgracia es que los reyes no quieren escuchar las verdades",	
+     "autor":"Víctor Hugo"
+    },
+    {
+     "frase":"La verdad triunfa por sí misma, la mentira necesita complicidad",	
+     "autor":"Epícteto"
+    },
+    {
+     "frase":"Vale más fracasar honradamente que triunfar debido a un fraude",	
+     "autor":"Sófocles"
+    },
+    {
+     "frase":"La credibilidad, como la virginidad, una vez que se pierde no se recupera",	
+     "autor":"MARK TWAIN"
+    },
+    {
+     "frase":"Si el hombre fracasa en conciliar la justicia y la libertad, fracasa en todo",	
+     "autor":"A. CAMUS"
+    },
+    {
+     "frase":"Nada hay más injusto que buscar premio en la justicia",	
+     "autor":"CICERÓN"
+    },
+    {
+     "frase":"La ley debe ser como la muerte, que no exceptúa a nadie",	
+     "autor":"MONTESQUIEU"
+    },
+    {
+     "frase":"No hay peor tiranía que la que se ejerce a la sombra de las leyes",	
+     "autor":"MONTESQUIEU"
+    },
+    {
+     "frase":"No hay peor animal que el hoombre sin ley",	
+     "autor":"SAVONAROLA"
+    },
+    {
+     "frase":"Es preciso preferir la soberanía de la ley a la de uno de los ciudadanos",	
+     "autor":"ARISTÓTELES"
+    },
+    {
+     "frase":"El admitir que existe Algo en lo cual no podemos penetrar; el pensar que las razones más profundas, que la belleza más radiante que nuestra mente pueda alcanzar, son solo sus formas más elementales de expresión; ese reconocimiento, esa emoción, constituye la actitud verdaderamente religiosa. En ese sentido yo soy profundamente religioso",	
+     "autor":"A. EINSTEIN"
+    },
+    {
+     "frase":"Cristo me dio el mensaje, Gandhi me dio el método",	
+     "autor":"MARTIN LUTHER KING"
+    },
+    {
+     "frase":"Siempre hay un tiempo mara marchar aunque no haya sitio a donde ir",	
+     "autor":"TENNESSEE WILLIAMS"
+    },
+    {
+     "frase":"El tiempo es breve, las ansias crecen, las esperanzas menguan, y con todo esto, llevo la vida sobre el deseo que tengo de vivir",	
+     "autor":"MIGUEL DE CERVANTES"
+    },
+    {
+     "frase":"Es una gran vergüenza que estando el cuerpo todavía fuerte, la mente empiece ya a debilitarse. La luz no se apaga hasta que se agota el aceite de la lámpara, ¿cómo se apagan en mí la razón y el buen sentido, cuando todavía estoy vivo?",	
+     "autor":"MARCO AURELIO"
+    },
+    {
+     "frase":"Virtud es estimar en primer lugar la gloria de la patria, luego la de los antepasados y por último la propia",	
+     "autor":"LUCILIO"
+    },
+    {
+     "frase":"Fuerza es que tema a muchos aquel a quien temen muchos",	
+     "autor":"D. LABERIO"
+    },
+    {
+     "frase":"El fracaso es la característica de la realidad humana",	
+     "autor":"LACROIX"
+    },
+    {
+     "frase":"Nunca se logra ningun beneficio sin perjudicar a otro",	
+     "autor":"MONTAIGNE"
+    },
+    {
+     "frase":"Las cosas sólo son buenas o malas por comparación",	
+     "autor":"E.A.POE"
+    },
+    {
+     "frase":"Puedes ser joven sin dinero pero no puedes ser viejo sin él",	
+     "autor":"TENNESSEE WILLIAMS"
+    },
+    {
+     "frase":"El comportamiento es un espejo en el que cada uno muestra su imagen",	
+     "autor":"GOETHE"
+    },
+    {
+     "frase":"Lo falso no dura mucho",	
+     "autor":"CICERÓN"
+    },
+    {
+     "frase":"Hay más admiración por la belleza que veneración por la santidad",	
+     "autor":"SAN BERNARDO"
+    },
+    {
+     "frase":"Hay dos formas de llegar al fracaso: pedir lo imposible, y retrasar lo inevitable",	
+     "autor":"CAMBÓ"
+    },
+    {
+     "frase":"No hay trabajo más terrible que el trabajo inútil",	
+     "autor":"CAMUS"
+    },
+    {
+     "frase":"Un hombre sin enemigos, es un hombre sin carácter",	
+     "autor":"PAUL NEWMAN"
+    },
+    {
+     "frase":"Evitar los impuestos es el único esfuerzo intelectual que tiene recompensa",	
+     "autor":"KEYNES"
+    },
+    {
+     "frase":"Dar ejemplo no es la principal manera de influir en los demás; es la única",	
+     "autor":"ALBERT EINSTEIN"
+    },
+    {
+     "frase":"Gobernar es pactar; pactar no es ceder",	
+     "autor":"GUSTAVE LE BON"
+    },
+    {
+     "frase":"El único Estado estable es aquel en que todos los ciudadanos son iguales ante la ley",	
+     "autor":"ARISTÓTELES"
+    },
+    {
+     "frase":"La victoria pertenece al más perseverante",	
+     "autor":"NAPOLEÓN BONAPARTE"
+    },
+    {
+     "frase":"La verdad puede ocultarse, pero no extinguirse",	
+     "autor":"FRANK LLOYD WRIGHT"
+    },
+    {
+     "frase":"Hay pocos monstruos que justifiquen los miedos que les tenemos",	
+     "autor":"A. GIDE"
+    },
+    {
+     "frase":"La política es un acto de equilibrio entre la gente que quiere entrar y aquellos que no quieren salir",	
+     "autor":"JACQUES B. BOSSUET"
+    },
+    {
+     "frase":"No hay más alianzas que las que trazan los intereses, ni las habrá jamás",	
+     "autor":"CÁNOVAS DEL CASTILLO"
+    },
+    {
+     "frase":"La dificultad es una excusa que la historia nunca acepta",	
+     "autor":"JFK"
+    },
+    {
+     "frase":"Gracias, Dios mío, porque no me has dejado morir sin haber visto tal maravilla",	
+     "autor":"NUÑEZ DE BALBOA",
+     "extra":"Ante los dos océanos"
+    },
+    {
+     "frase":"Lo comprado al precio de muchos ruegos es caro",	
+     "autor":"JUAN LUIS VIVES"
+    },
+    {
+     "frase":"Más vale un minuto de vida sincera que cien años de hipocresía",	
+     "autor":"ÁNGEL GANIVET"
+    },
+    {
+     "frase":"En las democracias, las revoluciones son casi siempre obra de los dema gogos",	
+     "autor":"ARISTÓTELES"
+    },
+    {
+     "frase":"La verdad se corrompe tanto con la mentira como con el silencio",	
+     "autor":"CICERÓN"
+    },
+    {
+     "frase":"A gran necesidad, gran diligencia",	
+     "autor":"RAIMUNDO LULIO"
+    },
+    {
+     "frase":"Si el presente juzga al pasado, perderá el futuro",	
+     "autor":"W.CHURCHILL"
+    },
+    {
+     "frase":"Pocos ven los que somos, pero todos ven lo que aparentamos",	
+     "autor":"NICOLÁS MAQUIAVELO"
+    },
+    {
+     "frase":"La política es el arte de servirse de los hombres haciéndoles creer que se les sirve a ellos",	
+     "autor":"LOUIS DUMUR"
+    },
+    {
+     "frase":"La ceguera del destino es en realidad miopía propia",	
+     "autor":"W.FAULKNER"
+    },
+    {
+     "frase":"El hombre nace con la memoria de lo que es justo",	
+     "autor":"SÓCRATES"
+    },
+    {
+     "frase":"Hay un límite en el que la indulgencia deja de ser una virtud",	
+     "autor":"EDMUND BURKE"
+    },
+    {
+     "frase":"Una conspiración moral no tiene término",	
+     "autor":"NAPOLEÓN BONAPARTE"
+    },
+    {
+     "frase":"Es de cabezas medianas embestir contra todo lo que no les cabe en la cabeza",	
+     "autor":"ANTONIO MACHADO"
+    },
+    {
+     "frase":"El arte de persuadir consiste tanto en el de agradar como en el de con vencer",	
+     "autor":"PASCAL"
+    },
+    {
+     "frase":"El pretexto de todas las guerras: conseguir la paz",	
+     "autor":"J. BENAVENTE"
+    },
+    {
+     "frase":"Sorprenderse, extrañarse, es comenzar a comprender",	
+     "autor":"ORTEGA Y GASSET"
+    },
+    {
+     "frase":"Los engaños tienen un no sé qué de traición",	
+     "autor":"MIGUEL DE CERVANTES"
+    },
+    {
+     "frase":"La razón de Estado no se ha de oponer al estado de la razón",	
+     "autor":"CARLOS V"
+    },
+    {
+     "frase":"El tiempo saca a la luz todo lo que está oculto",	
+     "autor":"QUINTO HORACIO FLACO"
+    },
+    {
+     "frase":"El hombre absurdo es el que no cambia nunca",	
+     "autor":"CLEMENCEAU"
+    },
+    {
+     "frase":"Lo que las leyes no prohiben puede prohibirlo la honestidad",	
+     "autor":"SÉNECA"
+    },
+    {
+     "frase":"Los reyes atraen como el imán al hierro al elemento femenino, y las mujeres acuden a ellos como las mariposas a la luz",	
+     "autor":"ROMANONES"
+    },
+    {
+     "frase":"En algun libro mío he escrito que en achaques de amor todo consejo huelga",	
+     "autor":"GREGORIO MARAÑÓN"
+    },
+    {
+     "frase":"No se puede ser y no ser algo al mismo tiempo y bajo el mismo aspecto",	
+     "autor":"ARISTÓTELES"
+    },
+    {
+     "frase":"Con la audacia se encubren grandes miedos",	
+     "autor":"MARCO ANNEO LUCANO"
+    },
+    {
+     "frase":"Escribo porque encuentro la vida poco satisfactoria",	
+     "autor":"TENNESSEE WILLIAMS"
+    },
+    {
+     "frase":"No hay cosa, por fácil que sea, que no la haga difícil la mala gana",	
+     "autor":"JUAN LUIS VIVES"
+    },
+    {
+     "frase":"La Justicia, aunque anda cojeando, rara vez deja de alcanzar al criminal",	
+     "autor":"QUINTO HORACIO FLACO"
+    },
+    {
+     "frase":"Las leyes guardan silencio cuando suenan las armas",	
+     "autor":"CICERÓN"
+    },
+    {
+     "frase":"Nunca dudes que un pequeño grupo de ciudadanos reflexivos y comprometidos pueda cambiar el mundo; porque en efecto, así es como siempre se ha hecho",	
+     "autor":"MARGARET MEAD"
+    },
+    {
+     "frase":"Muchos jueces son incorruptibles, nadie puede inducirlos a hacer justicia",	
+     "autor":"BERTOLD BRECHT"
+    },
+    {
+     "frase":"La maldad no necesita razones, le basta con un pretexto",	
+     "autor":"W.GOETHE"
+    },
+    {
+     "frase":"El Estado cumple sus fines cuando asegura la libertad de todos",	
+     "autor":"KANT"
+    },
+    {
+     "frase":"La incompetencia es tanto más dañina cuanto mayor es el poder del incompetente",	
+     "autor":"FRANCISCO AYALA"
+    },
+    {
+     "frase":"A los que han apagado los ojos del pueblo, reprochadles su ceguera",	
+     "autor":"JOHN MILTON"
+    },
+    {
+     "frase":"A los que corren en un laberinto, su misma velocidad los confunde",	
+     "autor":"SÉNECA"
+    },
+    {
+     "frase":"El que no piensa en sus deberes sino cuando se los recuerdan, no es digno de estimación",	
+     "autor":"PLAUTO"
+    },
+    {
+     "frase":"El más rico de los hombres es el ahorrativo",	
+     "autor":"CHAMFORT"
+    },
+    {
+     "frase":"Donde no hay beneficio no sale humo de las fábricas",	
+     "autor":"BEBEL"
+    },
+    {
+     "frase":"La acusación pública vela por los ciudadanos: ella actúa y éstos están tranquilos",	
+     "autor":"PLATÓN (Las Leyes)"
+    },
+    {
+     "frase":"Es de vez en cuando necesario doblar la Ley hacia una de las partes, y ser más misericordioso de lo que la Ley permite; también es necesario a veces doblar la Ley hacia la parte opuesta y castigar con un rigor que sobrepase el de las mismas leyes",	
+     "autor":"EGIDIO ROMANO"
+    },
+    {
+     "frase":"Lo que va contra las buenas costumbres es de creer que nunca sea posible hacerlo",	
+     "autor":"PAPINIANO"
+    },
+    {
+     "frase":"Los más grandes entre los hombres son el poeta, el sacerdote y el soldado",	
+     "autor":"CHARLES BAUDELAIRE"
+    },
+    {
+     "frase":"El deporte es una guerra sin armas",	
+     "autor":"ORWELL"
+    },
+    {
+     "frase":"Si no están dispuestos a pequeñas reformas, nunca lo estarán a cambios trascendentales",	
+     "autor":"GANDHI"
+    },
+    {
+     "frase":"Los reyes de las naciones se enseñorean de ellas, y los que ejercen autoridad sobre ellas benefactores son llamados. Sin embargo, vosotros no seáis así",	
+     "autor":"LUCAS 22, 25-26"
+    },
+    {
+     "frase":"Qué maravillosa es la vida si alguien no decide quitártela",	
+     "autor":"R.W.EMERSON"
+    },
+    {
+     "frase":"Cuida los pequeños gastos; un pequeño agujero hunde un barco",	
+     "autor":"B. FRANKLIN "
+    },
+    {
+     "frase":"La estupidez y simpleza del vulgo le lleva a querer ser engañado",	
+     "autor":"MAQUIAVELO"
+    },
+    {
+     "frase":"La duda: la escuela de la verdad",	
+     "autor":"F. BACON"
+    },
+    {
+     "frase":"La verdad es, casi siempre, la mejor vindicación contra las calumnias",	
+     "autor":"A. LINCOLN"
+    },
+    {
+     "frase":"Vivir en contradicción con la razón propia es el estado moral más intolerable",	
+     "autor":"TOLSTOI"
+    },
+    {
+     "frase":"No desees nada y serás el hombre más feliz del mundo",	
+     "autor":"Cervantes"
+    },
+    {
+     "frase":"Recuerdo lo que no quisiera, y no puedo olvidar lo que quisiera",	
+     "autor":"Marco Tulio Cicerón"
+    },
+    {
+     "frase":"Ni Howells ni yo creemos en el infierno o en la divinidad del Salvador... pero no importa, el Salvador es a pesar de todo un Personaje sagrado y nadie debería desear o sentir inclinación a referirse a él con ligereza, profanidad o de cualquier otra manera que no sea con la más profunda veneración",	
+     "autor":"Mark Twain",
+     "extra":"Carta a Orión Clemens"
+    },
+    {
+     "frase":"Ninguno der nosotros puede ser tan grande como Dios, pero cualquiera de nosotros puede ser tan bueno",	
+     "autor":"Mark Twain"
+    },
+    {
+     "frase":"Fe es creer lo que sabes que no es así",	
+     "autor":"Mark Twain"
+    },
+    {
+     "frase":"Nada es más poderoso que una idea a la que llegó su momento",	
+     "autor":"Víctor Hugo"
+    },
+    {
+     "frase":"Cánovas era monárquico por razones históricas, según él mismo declaraba. Lo era porque no creía en la capacidad del pueblo español para la República. Abominable inmoralidad, porque cuando un gobernante no cree en su pueblo, debe retirarse de la política. Y, además, notable estupidez, porque ningún pueblo posee capacidad republicana hasta que la adquiere con el uso y el ejercicio, como nadie aprenderá a nadar si no se sumerge en el agua",	
+     "autor":"Pérez de Ayala"
+    },
+    {
+     "frase":"Una dictadura es un estado en el que todos temen a uno y uno a todos",	
+     "autor":"Alberto de Moravia"
+    },
+    {
+     "frase":"Quien piensa a lo grande yerra grandiosamente",	
+     "autor":"M. Heidegger"
+    },
+    {
+     "frase":"No pretendas que las cosas sean como las deseas, deséalas como son",	
+     "autor":"Epícteto"
+    },
+    {
+     "frase":"Justicia es el hábito de dar a cada quien lo suyo",	
+     "autor":"Ulpiano (170-228)"
+    },
+    {
+     "frase":"Yo tengo una religión... pero tú la llamarás blasfemia. Es que hay un Dios para los ricos, pero ninguno para los pobres",	
+     "autor":"M. Twain (Carta a Orión Clemens, 1865)"
+    },
+    {
+     "frase":"La fácil seguridad con la que sé que la religión de otro hombre es una locura me enseña a sospechar que la mía también lo es",	
+     "autor":"M. Twain"
+    },
+    {
+     "frase":"Es mejor coger lo que no te pertenece que dejarlo por ahí tirado",	
+     "autor":"M. Twain"
+    },
+    {
+     "frase":"Es curioso... curioso que el valor físico sea tan frecuente en el mundo y que el valor moral sea tan raro",	
+     "autor":"M. Twain. 1907"
+    },
+    {
+     "frase":"Vanidad... el sitio en que los débiles y los tontos son más vulnerables",	
+     "autor":"M. Twain. 1899"
+    },
+    {
+     "frase":"El tonto viejo es el más tonto que hay",	
+     "autor":"M. Twain. 1876"
+    },
+    {
+     "frase":"Nadie más que los dioses ha tenido jamás un pensamiento que no viniera del exterior",	
+     "autor":"M. Twain. 1906"
+    },
+    {
+     "frase":"No creo que un médico pueda curar ninguna enfermedad realmente seria excepto por accidente",	
+     "autor":"M. Twain. 1899"
+    },
+    {
+     "frase":"¡A cuantos problemas escapan los que no se casan!",
+     "autor":"M. Twain. 1852"
+    },
+    {
+     "frase":"Ha sido siempre una peculiaridad de la raza humana el mantener dos sistemas de moralidad en existencia... la privada y real y la pública y artificial",	
+     "autor":"M. Twain"
+    },
+    {
+     "frase":"Nadie es perfecto",	
+     "autor":"Nadie"
+    },
+    {
+     "frase":"Es mi trabajo no estar nunca satisfecho",	
+     "autor":"Werner Von Braun"
+    },
+    {
+     "frase":"La práctica siempre debe ser edificada sobre la buena teoría",	
+     "autor":"Leonardo da Vinci"
+    },
+    {
+     "frase":"Aprendiendo a morir se aprende a vivir mejor",	
+     "autor":"Platón"
+    },
+    {
+     "frase":"No rectificar un error cometido es cometer otro",	
+     "autor":"Confucio"
+    },
+    {
+     "frase":"No ha de ser dichoso el joven, sino el viejo que ha vivido una buena vida",	
+     "autor":"Epicuro de Samos"
+    },
+    {
+     "frase":"Si explicas algo con suma claridad para evitar melentendidos, alguien te entenderá mal",	
+     "autor":"Tercer Corolario de Chisholm"
+    },
+    {
+     "frase":"Dentro de cada pequeño problema hay un gran problema luchando por abrirse paso",	
+     "autor":"Teorema de Schainker"
+    },
+    {
+     "frase":"Nunca he encontrado una persona tan ignorante que no pueda aprender algo de ella",	
+     "autor":"Galileo Galilei"
+    },
+    {
+     "frase":"Un tonto siempre encuentra otro más tonto que le admire",	
+     "autor":"Niels Bohr"
+    },
+    {
+     "frase":"El camino más seguro es el del medio",	
+     "autor":"Ovidio"
+    },
+    {
+     "frase":"Hay los que se burlan del escolar llamándole frívolo y superficial. Pero fué un escolar el que dijo: Fe es creer lo que sabes que no es así",	
+     "autor":"M. Twain"
+    },
+    {
+     "frase":"Cuanto más amplia sea la teoría, mejor será",	
+     "autor":"Ley de Maier"
+    },
+    {
+     "frase":"Prefiero ser el primero en una aldea que el segundo en Roma",	
+     "autor":"Julio César"
+    },
+    {
+     "frase":"Existen dos maneras de ser feliz en esta vida: una hacerse el idiota; otra, serlo",	
+     "autor":"Sigmund Freud"
+    },
+    {
+     "frase":"El espíritu busca, pero el corazón es el que encuentra",	
+     "autor":"Aurore Dupin (George Sand)"
+    },
+    {
+     "frase":"Hay quien ha venido al mundo para enamorarse de una sola mujer y, consecuentemente, no es probable que tropiece con ella",	
+     "autor":"Ortega y Gasset"
+    },
+    {
+     "frase":"La política es el arte de servirse de los hombres haciéndoles creer que se les sirve a ellos",	
+     "autor":"Louis Dumur"
+    },
+    {
+     "frase":"Hay tres clases de mentiras: la mentira, la maldita mentira, y las estadísticas",	
+     "autor":"M. Twain"
+    },
+    {
+     "frase":"Temer al amor es temer a la vida, y los que temen a la vida ya están medio muertos",	
+     "autor":"B. Russell"
+    },
+    {
+     "frase":"Nada es tan fácil como parece",	
+     "autor":"Primer Corolario de Murphy"
+    },
+    {
+     "frase":"Crítica: la fuerza del impotente",	
+     "autor":"Lamartine"
+    },
+    {
+     "frase":"Filosofía es la búsqueda de la verdad como medida de lo que el hombre debe hacer y como norma para su conducta",	
+     "autor":"SÓCRATES"
+    },
+    {
+     "frase":"La justicia sin caridad se petrifica; la caridad sin justicia se pudre",	
+     "autor":"Federico Ozanam"
+    },
+    {
+     "frase":"Cuando lo sagrado está en todas partes ya no hay nada sagrado en ningún lugar",	
+     "autor":"Henry de Lubac"
+    },
+    {
+     "frase":"La naturaleza es maestra de la verdad",	
+     "autor":"San Ambrosio"
+    },
+    {
+     "frase":"Los únicos goces puros y sin mezcla de tristeza que le han sido dados sobre la tierra el hombre, son los goces de la familia",	
+     "autor":"Giuseppe Mazzini"
+    },
+    {
+     "frase":"Que nadie por ser joven vacile en filosofar, ni por hallarse viejo de filosofar se fatigue",	
+     "autor":"Epicuro"
+    },
+    {
+     "frase":"Dios, tan atroz en el antiguo Testamento, tan atractivo en el Nuevo... el Jekyll y Hyde de la novela sacra",	
+     "autor":"Mark Twain (1904)"
+    },
+    {
+     "frase":"Me gusta la crítica, pero a mi modo",	
+     "autor":"Mark Twain (1906)"
+    },
+    {
+     "frase":"Somos volcanes en actividad, a los cuales llegará su hora de erupción; verdad es que nadie sabe si ese instante está próximo o lejano",	
+     "autor":"F. Nietzsche"
+    },
+    {
+     "frase":"Algunas mujeres civilizadas perderían la mitad de sus encantos sin vestido, y otras los perderían todos",	
+     "autor":"Mark Twain (1882)"
+    },
+    {
+     "frase":"El perro es un caballero. Espero ir a su cielo y no al del hombre",	
+     "autor":"Mark Twain (1899)"
+    },
+    {
+     "frase":"Estamos hechos de forma muy extraña: Los recuerdos que podrían hacernos felices pasan y son los que nos parten el corazón los que permanecen",	
+     "autor":"Mark Twain (1896)"
+    },
+    {
+     "frase":"Hase de hablar como en testamento, que a menos palabras, menos pleitos",	
+     "autor":"B. Gracián"
+    },
+    {
+     "frase":"Es mejor malgastar la juventud que no hacer absolutamente nada con ella",	
+     "autor":"Georges Courteline"
+    },
+    {
+     "frase":"La mente es su propio lugar y por sí misma puede hacer un cielo del infierno, un infierno del cielo",	
+     "autor":"Milton"
+    },
+    {
+     "frase":"Es más fácil hacer preguntas estúpidas que corregir errores estúpidos",	
+     "autor":"Primer axioma de la estupidez"
+    },
+    {
+     "frase":"Tú eres una pequeña alma colocada en un cadaver",	
+     "autor":"Epícteto"
+    },
+    {
+     "frase":"Puesto que es posible que hayas de partir de la vida en este preciso momento, regula todo acto y pensamiento de acuerdo con esto",	
+     "autor":"Marco Aurelio"
+    },
+    {
+     "frase":"Cualquier cosa que pueda ocurrirte a tí, fué preparada para tí de toda la eternidad; y la implicación de las causas era de la eternidad que hilaba el torzal de tu ser",	
+     "autor":"Marco Aurelio"
+    },
+    {
+     "frase":"La perversidad de un hombre no hiere a otro",	
+     "autor":"Marco Aurelio"
+    },
+    {
+     "frase":"Los deseos deben obedecer a la razón",	
+     "autor":"M. T. CICERÓN"
+    },
+    {
+     "frase":"Confía en el tiempo, que suele dar dulces salidas a muchas amargas dificultades",	
+     "autor":"Miguel de Cervantes"
+    },
+    {
+     "frase":"En tanto que haya alguien que crea en una idea, la idea vive",	
+     "autor":"Ortega y Gasset"
+    },
+    {
+     "frase":"El sabio cambia de metas, mentras que el estúpido queda siempre en la misma cantinela",	
+     "autor":"SÉNECA"
+    },
+    {
+     "frase":"Los que desean engañar, siempre hallarán a quienes desean ser engañados",	
+     "autor":"Nicolás Maquiavelo"
+    },
+    {
+     "frase":"Es absolutamente imposible demostrarlo todo",	
+     "autor":"ARISTÓTELES"
+    },
+    {
+     "frase":"Nunca es definitivo el éxito, ni perenne el fracaso",	
+     "autor":"Gabriel y Galán"
+    },
+    {
+     "frase":"En la naturaleza no existen premios ni castigos. Solo existen consecuencias",	
+     "autor":"Robert Ingersoll"
+    },
+    {
+     "frase":"Siempre he opinado que el aborrecimiento por un acto de justicia es para el aborrecido un título de gloria",	
+     "autor":"Catilinaria I. CICERÓN"
+    },
+    {
+     "frase":"Dedicarse a especulaciones irregulares es decididamente dañoso",	
+     "autor":"Confucio"
+    },
+    {
+     "frase":"Dios mira las manos limpias, no las llenas",	
+     "autor":"Publio Siro"
+    },
+    {
+     "frase":"Quien olvida la Historia, se condena a repetirla",	
+     "autor":"Santayana"
+    },
+    {
+     "frase":"Si ignoras lo que ocurrió antes de que nacieras, siempre serás un niño",	
+     "autor":"CICERÓN"
+    },
+    {
+     "frase":"Para el hombre dichoso todos los países son su patria",	
+     "autor":"Erasmo de Rotterdam"
+    },
+    {
+     "frase":"Una idea no es responsable de la gente que cree en ella",	
+     "autor":"Don Marquis"
+    },
+    {
+     "frase":"Educad a los niños y no será necesario castigar a los hombres",	
+     "autor":"Pitágoras"
+    },
+    {
+     "frase":"Nuestra conducta es la única prueba de nuestra honestidad",	
+     "autor":"Charles Wilson"
+    },
+    {
+     "frase":"Cuando el error se hace colectivo adquiere la fuerza de una verdad",	
+     "autor":"Gustavo Le Bon"
+    },
+    {
+     "frase":"El escritor sólo puede interesar a la humanidad cuando en sus obras se interesa por la humanidad",	
+     "autor":"Miguel de Unamuno"
+    },
+    {
+     "frase":"Lo lamentable es añadir el delito al deshonor",	
+     "autor":"Denys Caton "
+    },
+    {
+     "frase":"La filosofía es la tremebunda herida que deja la religión al marcharse",	
+     "autor":"ORTEGA Y GASSET"
+    },
+    {
+     "frase":"Los únicos que no juzgan las apariencias son los superficiales",	
+     "autor":"OSCAR WILDE"
+    },
+    {
+     "frase":"Tras los sofismas vienen las revoluciones; detrás de los sofismas le toca el turno al verdugo",	
+     "autor":"DONOSO Y CORTÉS"
+    },
+    {
+     "frase":"Con frecuencia, para la mayor parte de los hombres, la incredulidad en una vida se basa en la ciega creencia en otra",	
+     "autor":"G.C. LIECHTEMBERG"
+    },
+    {
+     "frase":"Un cura me ahorra cien gendarmes",	
+     "autor":"NAPOLEÓN BONAPARTE"
+    },
+    {
+     "frase":"Dios no entra en mis cálculos",	
+     "autor":"LAPLACE a NAPOLEÓN"
+    },
+    {
+     "frase":"Sólo hay un bien, causa y fundamento de la vida: creer en uno mismo",	
+     "autor":"SÉNECA"
+    },
+    {
+     "frase":"Si hablas con Dios estás rezando, si Dios habla contigo estás esquizofrénico",	
+     "autor":"THOMAS SZASZ"
+    },
+    {
+     "frase":"Adonde interviene el favor, se allanan los riscos",	
+     "autor":"M. CERVANTES"
+    },
+    {
+     "frase":"Moralidad y mercado son incompatibles, puesto que las acciones morales voluntarias violan las reglas del mercado, y el propio mercado eliminaría al empresario moral",	
+     "autor":"ADAM SMITH"
+    },
+    {
+     "frase":"Si no eres parte de la solución, eres parte del problema",	
+     "autor":"LENIN"
+    },
+    {
+     "frase":"Estoy seguro sólo de mis dudas",	
+     "autor":"VALERIO BUTULESCO"
+    },
+    {
+     "frase":"En toda negociación la mala fe se apunta los tantos",	
+     "autor":"MIKA WALTARI"
+    },
+    {
+     "frase":"Dime lo que crees y te diré lo que no eres",	
+     "autor":"H.F. AMIEL"
+    },
+    {
+     "frase":"La inteligencia y el sentido común se abren paso con pocos artificios",	
+     "autor":"GOETHE"
+    },
+    {
+     "frase":"La voluntad del político es hacer de cada solución un problema",	
+     "autor":"WOODY ALLEN"
+    },
+    {
+     "frase":"La justicia tiene que ser para todos, nadie puede quedar excluido",	
+     "autor":"PAUL AUSTER"
+    },
+    {
+     "frase":"Marilyn Monroe tiene asegurada cada pierna en un millón de dólares, entre las dos tiene un tesoro",	
+     "autor":"ANTONIO OZORES",
+     "extra":"En LA CODORNIZ, lo que ocasionó uno de sus múltiples cierres y la multa correspondiente"
+    },
+    {
+     "frase":"Los grandes hombres son casi siempre malas personas; ¡fíjense en los pequeños!",	
+     "autor":"LORD ACTON"
+    },
+    {
+     "frase":"La peor decisión es la indecisión",	
+     "autor":"BENJAMÍN FRANKLIN"
+    },
+    {
+     "frase":"El impuesto innecesario es un impuesto injusto",	
+     "autor":"ABRAHAM S. HEWIT"
+    },
+    {
+     "frase":"En el Gobierno todo cambio es sospechoso, aunque sea para mejorar",	
+     "autor":"FRANCIS BACON"
+    },
+    {
+     "frase":"Un hombre aislado se siente débil y lo es",	
+     "autor":"CONCEPCIÓN ARENAL"
+    },
+    {
+     "frase":"La traición supone una cobardía y una depravación detestable",	
+     "autor":"BARÓN DE HOLBACH"
+    },
+    {
+     "frase":"El humanismo como idea política es un lugar común, como idea religiosa un equívoco, como idea ética una ilusión",	
+     "autor":"ARTHUR SCHNITZLER"
+    },
+    {
+     "frase":"Tiempos grandes pueden contener una considerable cantidad de gente pequeña",	
+     "autor":"STANISLAW J. LEC"
+    },
+    {
+     "frase":"El oro se cambia por todas las cosas y todas las cosas se cambian por el oro",	
+     "autor":"HERÁCLITO"
+    },
+    {
+     "frase":"Los días suelen correr, y yo con ellos me voy; ayer nunca será hoy, y hoy mañana será ayer",	
+     "autor":"FRANCISCO DE LA TORRE"
+    },
+    {
+     "frase":"Preso y doliente el célebre Quevedo, de aguda en enfermedad convalecía, y el abad de San Marcos le brindaba caldo de transparencia cristalina. -Valiente caldo-exclamaba don Francisco-: ¡Valiente, bravo caldo!-repetía. -¿Por qué es valiente?-le preguntó el monje. -Porque no tiene nada de 'gallina'",	
+     "autor":"EPIGRAMA ANÓNIMO"
+    },
+    {
+     "frase":"Cuando hayas de sentenciar procura olvidar a los litigantes y acordarte sólo de la causa",	
+     "autor":"EPÍCTETO"
+    },
+    {
+     "frase":"El comportamiento es un espejo en el que cada uno muestra su imagen",	
+     "autor":"GOETHE"
+    },
+    {
+     "frase":"Procura hecerte digno de todos los favores, pero no aceptes ninguno",	
+     "autor":"W.S. STEVENS"
+    },
+    {
+     "frase":"Los hombres ya no tienen medida de nada cuando la vida humana deja de ser la medida",	
+     "autor":"ELÍAS CANETTI"
+    },
+    {
+     "frase":"La gloria de los grandes hombres debe medirse siempre por los medios de que se han servido para conseguirla",	
+     "autor":"LA ROCHEFOUCAULD"
+    },
+    {
+     "frase":"El nihilismo está ya a nuestras espaldas. Enfrente tenemos la nada",	
+     "autor":"SERGIO QUINZIO"
+    },
+    {
+     "frase":"La utopía no tiene en cuenta las lecciones del pasado, arruina el presente y sueña el futuro que no vivirá",	
+     "autor":"DIÑO BASILI"
+    },
+    {
+     "frase":"La religión es la metafísica del pueblo",	
+     "autor":"A. SCHOPENHAUER"
+    },
+    {
+     "frase":"Cualquier poder, si no se basa en la unión, es débil",	
+     "autor":"LA FONTAINE"
+    },
+    {
+     "frase":"La policía a veces inventa más de lo que descubre",	
+     "autor":"NAPOLEÓN BONAPARTE"
+    },
+    {
+     "frase":"La dicha no es más que un sueño, y el dolor la realidad",	
+     "autor":"VOLTAIRE"
+    },
+    {
+     "frase":"El arrepentimiento del hipócrita es de por sí una hipocresía",	
+     "autor":"W. HAZLITT"
+    },
+    {
+     "frase":"Los discursos inspiran menos confianza que las acciones",	
+     "autor":"ARISTÓTELES"
+    },
+    {
+     "frase":"Las frivolidades cautivan a los espíritus ligeros",	
+     "autor":"OVIDIO"
+    },
+    {
+     "frase":"La independencia, igual que el honor, es una isla rocosa sin playas",	
+     "autor":"NAPOLEÓN BONAPARTE"
+    },
+    {
+     "frase":"El que bebe se emborracha, el que se emborracha no peca, el que no peca va al Cielo. Y ya que al Cielo nos vamos, bebamos, pues, hermanos",	
+     "autor":"AFORISMO"
+    },
+    {
+     "frase":"Los dictadores pueden reformar las leyes, pero  no las costumbres",	
+     "autor":"J. BENAVENTE"
+    },
+    {
+     "frase":"Ninguna situación es tan grave que no sea susceptible de empeorar",	
+     "autor":"FEDERICO II"
+    },
+    {
+     "frase":"Somos mendigos. Es la verdad",	
+     "autor":"MARTÍN LUTERO",
+     "extra":"48 horas antes de morir"
+    },
+    {
+     "frase":"La verdad no es siempre bonita, pero el hambre de ella sí",	
+     "autor":"NADINE GARDINER"
+    },
+    {
+     "frase":"La sociedad debe juzgarse por su capacidad para hacer que la gente sea feliz",	
+     "autor":"A. TOCQUEVILLE"
+    },
+    {
+     "frase":"La confianza humana nunca proviene de tener todas las respuestas sino de estar abierta a todas las preguntas",	
+     "autor":"WALLACE STEVENS"
+    },
+    {
+     "frase":"El destino baraja las cartas y los hombres las jugamos",	
+     "autor":"SHAKESPEARE"
+    },
+    {
+     "frase":"La calumnia es siempre sencilla y verosímil",	
+     "autor":"B. RUSSELL"
+    },
+    {
+     "frase":"Lo que nos impide darnos la buena vida es la pobreza de quienes saqueamos",	
+     "autor":"G.B.SHAW"
+    },
+    {
+     "frase":"Gobernar siempre quiere decir hacer descontentos",	
+     "autor":"ANATOLE FRANCE"
+    },
+    {
+     "frase":"Los deseos deben obedecer a la razón",	
+     "autor":"CICERÓN"
+    },
+    {
+     "frase":"Algunas personas enfocan su vida de modo que viven con entremeses y guarniciones. El plato principal nunca lo conocen",	
+     "autor":"ORTEGA Y GASSET"
+    },
+    {
+     "frase":"No puede haber prestigio sin misterio, pues la familiaridad engendra el desprecio. Todas las religiones han tenido sus tabernáculos y ningún hombre es un héroe para su criado",	
+     "autor":"CHARLES DE GAULLE"
+    },
+    {
+     "frase":"Lo oscuro acabamos viéndolo; lo completamente claro lleva mas tiempo",	
+     "autor":"E.R. MURROW"
+    },
+    {
+     "frase":"Las improvisaciones son mejores cuando se las prepara",	
+     "autor":"WILLIAM SHAKESPEARE"
+    },
+    {
+     "frase":"Quien introduzca en los asuntos públicos los principios del Cristianismo primitivo revolucionará el mundo",	
+     "autor":"BENJAMÍN FRANKLIN"
+    },
+    {
+     "frase":"Demagogia es la capacidad de vestir ideas menores con palabras mayores",	
+     "autor":"ABRAHAM LINCOLN"
+    },
+    {
+     "frase":"En política hay que buscar el apoyo de las mujeres; los hombres te siguen solos",	
+     "autor":"ADOLFO HITLER "
+    },
+    {
+     "frase":"Nunca consideres el estudio como una obligación, sino como una oportunidad para penetrar en el bello y maravilloso mundo del saber",	
+     "autor":"A. EINSTEIN"
+    },
+    {
+     "frase":"Toda la gente cruel se describe a sí misma como el parangón de la franqueza",	
+     "autor":"TENNESSEE WILLIAMS"
+    },
+    {
+     "frase":"Ce qu'il y a de certain c'est que moi, je ne suis pas marxiste - (Lo cierto es que yo no soy marxista)",
+     "autor":"KARL MARX",
+     "extra":"A su yerno PAUL LAFARGUE, en Argenteuil"
+    },
+    {
+     "frase":"Lo que este país necesita es una mayor cantidad de políticos en el paro",	
+     "autor":"EDGARD LANGLEY"
+    },
+    {
+     "frase":"Soy un hombre anciano y enfermo. Todo lo que como me produce dolor",	
+     "autor":"MARCO AURELIO (Pensamientos)"
+    },
+    {
+     "frase":"El cadáver de un enemigo diempre huele bien y mejor aún si es de un conciudadano",	
+     "autor":"VITELIO"
+    },
+    {
+     "frase":"Linneo y Cuvier han sido mis dos dioses, pero los dos eran simples escolares comparados con el viejo ARISTÓTELES",	
+     "autor":"DARWIN"
+    },
+    {
+     "frase":"Un hombre de Estado debe tener el corazón en la cabeza",	
+     "autor":"NAPOLEÓN BONAPARTE"
+    },
+    {
+     "frase":"El fracaso es necesario y fascinante",	
+     "autor":"J.P. SARTRE"
+    },
+    {
+     "frase":"La gloria es una mujer pública",	
+     "autor":"D. LABERIO"
+    },
+    {
+     "frase":"La corrupción es la  moral de los negocios",	
+     "autor":"RAOUL VANEIGEM"
+    },
+    {
+     "frase":"Toda vida es, a la postre, un fracaso",	
+     "autor":"MIGUEL DE UNAMUNO"
+    },
+    {
+     "frase":"El odio, en España, no se acabará nunca, es un odio eterno, hijo del resentimiento y la mediocridad, hermano de la mezquindad y la impotencia",	
+     "autor":"PÍO BAROJA"
+    },
+    {
+     "frase":"La felicidad del ser humano es la libertad. Y la libertad es la valentía",	
+     "autor":"TUCÍDIDES"
+    },
+    {
+     "frase":"El éxito y el fracaso son igualmente desastrosos",	
+     "autor":"TENNESSEE WILLIAMS"
+    },
+    {
+     "frase":"Ponen tronos a las causas y cadalsos a las consecuencias",	
+     "autor":"VÁZQUEZ DE MELLA"
+    },
+    {
+     "frase":"El esclavo sólo tiene un dueño; el ambicioso, tantos como personas le puedan ser útiles a su fortuna",	
+     "autor":"JEAN DE LA BRUYÈRE"
+    },
+    {
+     "frase":"Naufragar no es ahogarse",	
+     "autor":"ORTEGA Y GASSET"
+    },
+    {
+     "frase":"El Estado representa el afán de todos por vivir a costa de todos",	
+     "autor":"BASTIAT"
+    },
+    {
+     "frase":"En la desgracia es fácil despreciar la vida; más valiente es el hombre que aguanta la desdicha",	
+     "autor":"MARCIAL. Epigramas"
+    },
+    {
+     "frase":"Una vida inútil equivale a una muerte prematura",	
+     "autor":"GOETHE"
+    },
+    {
+     "frase":"El hombre es algo sagrado para sus semejantes",	
+     "autor":"SÉNECA"
+    },
+    {
+     "frase":"Si el poder absoluto corrompe, ¿dónde deja eso a Dios?",	
+     "autor":"GEORGE DEACON"
+    },
+    {
+     "frase":"Todo hombre cree que Dios está de su lado. El rico y el poderoso saben que está del suyo",	
+     "autor":"JEAN ANOUILH"
+    },
+    {
+     "frase":"El dinero no nos proporciona amigos. Sólo enemigos de mejor calidad",	
+     "autor":"NOEL COWARD"
+    },
+    {
+     "frase":"El peor enemigo es el traidor",	
+     "autor":"SÉNECA"
+    },
+    {
+     "frase":"El insulto deshonra a quien lo infiere, no a quien lo recibe",	
+     "autor":"DIÓGENES DE SÍNOPE"
+    },
+    {
+     "frase":"Sin justicia sólo hay divisiones, víctimas y opresores",	
+     "autor":"NAPOLEÓN BONAPARTE"
+    },
+    {
+     "frase":"Si buscas resultados distintos, no hagas siempre lo mismo",	
+     "autor":"ALBERT EINSTEIN"
+    },
+    {
+     "frase":"La verdad engendra el odio",	
+     "autor":"AUSONIO"
+    },
+    {
+     "frase":"Cuando alguien te haga daño, debes imponerte la obligación de averiguar a qué convicción, buena o mala, responde esa acción injusta. Y cuando lo hayas comprendido te compadecerás de tu enemigo y tu extrañeza o tu rencor desaparecerán",	
+     "autor":"MARCO AURELIO"
+    },
+    {
+     "frase":"Nosotros conseguimos la liberalización de la mujer a través de la Fundación por dos razones: Una fue para sumar la mitad de la población al pago del impuesto sobre la renta y la otra impedir que los niños se criaran con sus madres y consideraran al Estado su padre",	
+     "autor":"NICHOLAS ROCKEFELLER",
+     "extra":"Revelada por su amigo personal Aarón Russell"
+    },
+    {
+     "frase":"No quiero al varón que compra su fama con un fácil derramamiento de sangre; quiero más bien al que puede ser alabado sin que se haya dado muerte",	
+     "autor":"MARCIAL. Epigramas"
+    },
+    {
+     "frase":"La libertad sin educación es un peligro; la educación sin libertad resulta vana",	
+     "autor":"JFK"
+    },
+    {
+     "frase":"Cuando el ánimo está en suspenso, un ligero impulso le hace inclinarse a un lado o a otro",	
+     "autor":"TERENCIO"
+    },
+    {
+     "frase":"El hombre que ha cometido un error y no lo corrige, comete otro error mayor",	
+     "autor":"CONFUCIO"
+    },
+    {
+     "frase":"El ajedrez es imaginación",	
+     "autor":"DAVID BRONSTEIN"
+    },
+    {
+     "frase":"Donde la esperanza no existe, no puede existir el esfuerzo",	
+     "autor":"SAMUEL JOHNSON"
+    },
+    {
+     "frase":"Solamente vive el que espera",	
+     "autor":"MIGUEL DE UNAMUNO"
+    },
+    {
+     "frase":"La muerte es un momento, la vida muchos",	
+     "autor":"TENNESSEE WILLIAMS"
+    },
+    {
+     "frase":"Este país es ingobernable",	
+     "autor":"AMADEO DE SABOYA"
+    },
+    {
+     "frase":"Quien no haya sido soldado de Infantería quizá ignore lo que es sentirse amo del mundo, a pie y sin dinero",	
+     "autor":"CJC"
+    },
+    {
+     "frase":"Para conocer la añada y la calidad de un vino no es necesario beberse la botella entera",	
+     "autor":"OSCAR WILDE"
+    },
+    {
+     "frase":"Las elecciones, a veces, son la venganza del ciudadano",	
+     "autor":"DAVID LLOYD GEORGE"
+    },
+    {
+     "frase":"Cuando un hombre público quiere saber si lo está haciendo bien, que mire a su familia",	
+     "autor":"W.S. CHURCHILL"
+    },
+    {
+     "frase":"La mentira es la forma más simple de autodefensa",	
+     "autor":"SUSAN SONTAG"
+    },
+    {
+     "frase":"Un pueblo sin tradición es un pueblo sin porvenir",	
+     "autor":"ALBERTO LLERAS CAMARGO"
+    },
+    {
+     "frase":"La primera víctima de la guerra es la verdad",	
+     "autor":"HIRAM WARREN JOHNSON"
+    },
+    {
+     "frase":"Sinceramente, sus argumentos me han convencido, pero no han cambiado mi voto",	
+     "autor":"W.S.CHURCHILL"
+    },
+    {
+     "frase":"No pretendas apagar el fuego con un incendio",	
+     "autor":"CONFUCIO"
+    },
+    {
+     "frase":"Todos los Estados bien gobernados y todos los príncipes inteligentes han tenido cuidado de no reducir a la nobleza a la desesperación, ni al pueblo al descontento",	
+     "autor":"NICOLÁS MAQUIAVELO"
+    },
+    {
+     "frase":"La opinión pública es irresistible si se le permite expresarse libremente",	
+     "autor":"T. JEFFERSON"
+    },
+    {
+     "frase":"Ser independiente es un privilegio de los fuertes",	
+     "autor":"F. NIETZSCHE"
+    },
+    {
+     "frase":"Cuando la libertad se aleja, la vida se torna insípida",	
+     "autor":"JOSEPH ADDISON. "
+    },
+    {
+     "frase":"Si no quieres repetir el pasado, estúdialo",	
+     "autor":"B. SPINOZA"
+    },
+    {
+     "frase":"El sufrir merece respeto, el someterse es despreciable",	
+     "autor":"VÍCTOR HUGO"
+    },
+    {
+     "frase":"No hay peor tiranía que la que se ejerce bajo el calor de la Justicia",	
+     "autor":"MONTESQUIEU"
+    },
+    {
+     "frase":"El poder nunca es estable cuando es ilimitado",	
+     "autor":"TÁCITO"
+    },
+    {
+     "frase":"Es preferible que haya periódicos sin Gobierno que Gobierno sin periódicos",	
+     "autor":"T. JEFFERSON"
+    },
+    {
+     "frase":"Jamás negociemos con miedo, pero jamás temamos negociar",	
+     "autor":"JFK"
+    },
+    {
+     "frase":"Donde la ley acaba comienza la tiranía",	
+     "autor":"W. PITT"
+    },
+    {
+     "frase":"Debemos convertirnos en esclavos de las leyes para ser libres",	
+     "autor":"CICERÓN"
+    },
+    {
+     "frase":"Hay hombres de rapiña, hombres de poder, hombres de fe. Yo quiero ser recordado entre estos últimos",	
+     "autor":"ALCIDE DE GASPERI"
+    },
+    {
+     "frase":"Todo poder cae a impulsos del mal que ha hecho",	
+     "autor":"CONCEPCIÓN ARENAL"
+    },
+    {
+     "frase":"La corrupción lleva infinitos disfraces",	
+     "autor":"FRANK HERBERT"
+    },
+    {
+     "frase":"En la verdad no puede haber matices. En la semi-verdad o la mentira, todos",	
+     "autor":"PÍO BAROJA"
+    },
+    {
+     "frase":"El malo, cuando se finge bueno, es pésimo",	
+     "autor":"F. BACON"
+    },
+    {
+     "frase":"El que recibe lo que no puede pagar, engaña",	
+     "autor":"SÉNECA"
+    },
+    {
+     "frase":"La persona que pierde su intimidad lo pierde todo",	
+     "autor":"MILAN KUNDERA"
+    },
+    {
+     "frase":"Nunca se miente tanto como antes de unas elecciones, durante la guerra y después de una cacería",	
+     "autor":"OTTO VON BISMARCK"
+    },
+    {
+     "frase":"La justicia sin fuerza es irrisoria",	
+     "autor":"BLAS PASCAL"
+    },
+    {
+     "frase":"Solamente un pueblo bien instruido está capacitado para ser libre de forma permanente",	
+     "autor":"JAMES MADISON",
+     "extra":"Discurso al Congreso USA el día 15/XII/1810"
+    },
+    {
+     "frase":"No hay accidente, por desagradable que sea, del que los hombres hábiles no obtengan provecho",	
+     "autor":"LA ROCHEFOUCAULD. "
+    },
+    {
+     "frase":"Por mucho que sepamos siempre habrá una pregunta sin responder. Y ese espacio de misterio inevitablamente invitará a cierto misticismo",	
+     "autor":"Lee Smolin. Físico"
+    },
+    {
+     "frase":"Los poetas son hombres que han conservado sus ojos de niño",	
+     "autor":"León Daudet"
+    },
+    {
+     "frase":"Todas las pasiones exageran: Es porque exageran por lo que son pasiones",	
+     "autor":"Nicolás Roch"
+    },
+    {
+     "frase":"Qué cerca sentimos a algunos que están muertos; y que muertos nos parecen otros que aún viven",	
+     "autor":"Wolf Biermann"
+    },
+    {
+     "frase":"Yo defendería la ley, aunque no fuera más que para protegerme de mí mismo",	
+     "autor":"Tomás Moro"
+    },
+    {
+     "frase":"Es más fácil hecer leyes que gobernar",	
+     "autor":"León Tolstoi"
+    },
+    {
+     "frase":"Cada persona forja su propia grandeza. Los enanos permanecerán enanos aunque se suban a los Alpes",	
+     "autor":"August von Kotzebue"
+    },
+    {
+     "frase":"El que lee mucho y anda mucho, ve mucho y sabe mucho",	
+     "autor":"M. Cervantes"
+    },
+    {
+     "frase":"El mejor consejo lo da la experiencia; lástima que llegue siempre demasiado tarde",	
+     "autor":"La Houssaye"
+    },
+    {
+     "frase":"En la justicia siempre hay peligro; sino por la ley, por los jueces",	
+     "autor":"Bordeaux"
+    },
+    {
+     "frase":"El amor no es más que una curiosidad",	
+     "autor":"Giovanni Giacomo Casanova"
+    },
+    {
+     "frase":"El carácter de un hombre es su destino",	
+     "autor":"Heráclito"
+    },
+    {
+     "frase":"Los libros de Historia están obligados a ser inconsecuentes",	
+     "autor":"Menéndez y Pelayo"
+    },
+    {
+     "frase":"Todo el que piensa debe manifestar su pensamiento, porque si éste es bueno, se aplica, si es malo, se corrige, y de todas maneras resulta provechoso",	
+     "autor":"Courier"
+    },
+    {
+     "frase":"Sería horríble que no se pudieran atacar las reputaciones usurpadas",	
+     "autor":"Euclides"
+    },
+    {
+     "frase":"La verdad yace en el fondo de un pozo insondable",	
+     "autor":"Demócrito"
+    },
+    {
+     "frase":"Dios castiga a veces con lo que da",	
+     "autor":"Francisco Quevedo"
+    },
+    {
+     "frase":"La alabanza propia envilece",	
+     "autor":"Miguel de Cervantes"
+    },
+    {
+     "frase":"Los buenos capitanes no acuden jamás a la batalla, si la necesidad no les obliga y la razón no les llama",	
+     "autor":"Nicolás Maquiavelo"
+    },
+    {
+     "frase":"El que no sabe gozar con la ventura cuando le viene, no debe quejarse cuando le pasa",	
+     "autor":"Sancho Panza"
+    },
+    {
+     "frase":"Aquel que tiene fe no está nunca solo",	
+     "autor":"T. Carlyle"
+    },
+    {
+     "frase":"El trabajo y la lucha llaman siempre a los mejores",	
+     "autor":"SÉNECA"
+    },
+    {
+     "frase":"Quien poco piensa mucho yerra",	
+     "autor":"Leonardo Da Vinci"
+    },
+    {
+     "frase":"El matrimonio es una gran institución. Por supuesto, si te gusta vivir en una institución",	
+     "autor":"Groucho Marx"
+    },
+    {
+     "frase":"La libertad de expresión es el derecho a decir lo que otros no quieren escuchar",	
+     "autor":"George Orwell"
+    },
+    {
+     "frase":"Tan injusto es que uno impida expresarse a los demás, como que todos los demás le nieguen ese derecho a uno solo",	
+     "autor":"J. Stuart Mill"
+    },
+    {
+     "frase":"La riqueza constituye un implacable enemigo de la inteligencia",	
+     "autor":"J.K. Galbraith (La sociedad opulenta)"
+    },
+    {
+     "frase":"En el amor la experiencia no cuenta para nada; porque si contase no se volvería a amar",	
+     "autor":"Henry F. de Regnier"
+    },
+    {
+     "frase":"Es importante mantener una mente abierta, pero no tanto que se te caigan los sesos",	
+     "autor":"Stephen Kallis Jr"
+    },
+    {
+     "frase":"El que habla lo que quiere, escucha la que no quiere",	
+     "autor":"Terencio"
+    },
+    {
+     "frase":"Algunas personas enfocan su vida de modo que viven con entremeses y guarniciones; el plato principal nunca lo conocen",	
+     "autor":"Ortega y Gasset"
+    },
+    {
+     "frase":"Yo no me ando con medias tintas",	
+     "autor":"El calamar"
+    },
+    {
+     "frase":"Si el vaso no está limpio, lo que en él derrames se corromperá",	
+     "autor":"HORACIO"
+    },
+    {
+     "frase":"El peor enemigo es el que está encubierto",	
+     "autor":"SÉNECA"
+    },
+    {
+     "frase":"La mayor diferencia entre la guerra y la política es que en la política te pueden matar muchas veces",	
+     "autor":"WINSTON S. CHURCHILL (1920)"
+    },
+    {
+     "frase":"Aunque uno siempre está preparado para el martirio, lo deseable es posponerlo el mayor tiempo posible",	
+     "autor":"W. CHURCHILL (My Early Life)"
+    },
+    {
+     "frase":"La dignidad de un gobernante, como la virtud de una dama, no es susceptible de disminuir parcialmente",	
+     "autor":"W. CHURCHILL"
+    },
+    {
+     "frase":"Hay una terrible cantidad de mentiras circulando por el mundo, pero lo peor de todo es que la mitad de ellas son verdad",	
+     "autor":"W. CHURCHILL"
+    },
+    {
+     "frase":"La excelencia de un Gobierno no se juzga por su orden",	
+     "autor":"LAO TSE"
+    },
+    {
+     "frase":"No me importa quien sea el títere colocado en el trono de Inglaterra, para gobernar el Imperio en el que el sol nunca se pone. El hombre que controla la oferta monetaria de Gran Bretaña controla el Imperio Británico. Y yo controlo la oferta monetaria británica",	
+     "autor":"NATHAN MAYER ROTHSCHILD",
+     "extra":"Al tomar el control del Banco de Inglaterra, en 1820"
+    },
+    {
+     "frase":"Todo hombre tiene un precio, sólo hace falta saber cuál es",	
+     "autor":"FOUCHÉ"
+    },
+    {
+     "frase":"Cada uno ve lo que pareces, pero pocos palpan lo que eres y estos pocos no se atreven a enfrentarse a la opinión de muchos",	
+     "autor":"MAQUIAVELO en EL PRÍNCIPE",
+     "extra":"Dirigiéndose a Lorenzo de Médicis"
+    },
+    {
+     "frase":"Disfruto del día hasta que algún imbécil lo arruina",	
+     "autor":"WOODY ALLEN"
+    },
+    {
+     "frase":"Siempre ocurre que con las mejores intenciones se han producido las peores obras",	
+     "autor":"O.WILDE"
+    },
+    {
+     "frase":"La mejor prueba de que la muerte es algo de temer es el trabajo que se toman los filósofos para convencernos de que se la debe despreciar",	
+     "autor":"LA ROCHEFOUCAULD"
+    },
+    {
+     "frase":"Los errores más perniciosos son precisamente los que resultan de la buena intención",	
+     "autor":"Von CLAUSEWITZ"
+    },
+    {
+     "frase":"Quien quiera matar a su enemigo piense bien si con ello no lo hace eterno dentro de sí",	
+     "autor":"F. NIETZSCHE"
+    },
+    {
+     "frase":"Si Dios me concediese Su omnipotencia, lo cambiaría todo. Mas si me concediese también Su omnisciencia, seguramente dejaría las cosas como están",	
+     "autor":"JACQUES MONSABRE"
+    },
+    {
+     "frase":"Tuve que anular el saber para hacer sitio a la fe",	
+     "autor":"KANT. (Prefacio a la 2ª edición de 'Crítica de la razón pura')"
+    },
+    {
+     "frase":"Platón y Aristóteles, los epicúreos y los estoicos, están todos condenados en el Infierno con el demonio, y los filósofos son los patriarcas de los herejes",	
+     "autor":"ADRIANO CÓRNETO (Sobre la verdadera filosofía, 1507)"
+    },
+    {
+     "frase":"En una palabra, no hay más que la ciencia experimental, y no se sabe nada fuera de la experiencia. La filosofía no enseña nada, y nada puede aprender de nuevo por sí misma, puesto que no experimenta ni observa nada",	
+     "autor":"CLAUDE BERNARD"
+    },
+    {
+     "frase":"Todos piensan en cambiar el mundo, pero nadie piensa en cambiarse a sí mismo",	
+     "autor":"L.TOLSTOI"
+    },
+    {
+     "frase":"A menos que creas, no entenderás",	
+     "autor":"ISAÍAS VII,9"
+    },
+    {
+     "frase":"La guerra es el infierno",	
+     "autor":"GENERAL SHERMAN"
+    },
+    {
+     "frase":"Todo el mundo ve lo que parecéis, pocos conocen a fondo lo que sois, y este pequeño número no se atreverá a levantarse contra la opinión de la mayoría, sostenida además por la majestad del poder soberano",	
+     "autor":"NICOLÁS MAQUIAVELO ('El Príncipe')"
+    },
+    {
+     "frase":"La prudencia es lo primero que abandona a los desgraciados",	
+     "autor":"OVIDIO"
+    },
+    {
+     "frase":"El problema de nuestro tiempo es que el futuro ya no es lo que era",	
+     "autor":"PAUL VALERY"
+    },
+    {
+     "frase":"Las dificultades aumentan conforme se aproxima el fin",	
+     "autor":"GOETHE"
+    },
+    {
+     "frase":"Soy enemigo declarado el sufragio universal, pero su manejo práctico no me asusta",	
+     "autor":"CÁNOVAS"
+    },
+    {
+     "frase":"Queriendo cada cual las ventajas sólo para sí, pone trabas a su vecino y como del interés común nadie se acuerda, se le sacrifica y perece. Entonces comienza la discordia, esforzándose los unos en hacer que los otros observen la justicia, pero sin que nadie quiera practicarla",	
+     "autor":"ARISTÓTELES"
+    },
+    {
+     "frase":"El hombre más necio puede llegar a fingir erudición por uno o dos días",	
+     "autor":"GOLDSMITH"
+    },
+    {
+     "frase":"El único pecado mortal que conozco es el cinismo",	
+     "autor":"HENRY LEWIS STIMSON"
+    },
+    {
+     "frase":"Empobrecieron a los ricos y mataron de hambre a los pobres",	
+     "autor":"NAPOLEÓN BONAPARTE (Referido a los 'sansculottes')"
+    },
+    {
+     "frase":"Para manipular a la gente, hay que hacer creer a todos que nadie los manipula",	
+     "autor":"J.K. GALBRAITH"
+    },
+    {
+     "frase":"El hombre sano no tortura a otros",	
+     "autor":"C.G. JUNG"
+    },
+    {
+     "frase":"La Historia es la suma de aquellas cosas que hubieran podido evitarse",	
+     "autor":"KONRAD ADENAUER"
+    },
+    {
+     "frase":"No hay otro modo de guardarse de la adulación que hacer comprender a los hombres que no te ofenden cuando te dicen la verdad",	
+     "autor":"NICOLÁS MAQUIAVELO. ('El Principe')"
+    },
+    {
+     "frase":"En la vida existen tantas cosas de las que reirse a carcajadas que si se riese uno de todas a la vez, no se haría nada más en todo el día",
+     "autor":"MIHURA"
+    },
+    {
+     "frase":"La historia de la libertad es la lucha por limitar el poder del Gobierno",	
+     "autor":"T.W. WILSON"
+    },
+    {
+     "frase":"La emoción más hermosa y más profunda que podemos experimentar es la sensación de lo místico. Es el legado de toda ciencia verdadera. Aquel al que su emoción le es escondida, que ya no se pregunta, ni está en estática reverencia, vale tanto como si estuviera muerto. Tener el conocimiento y el sentimiento de que, lo que es impenetrable para nosotros, realmente existe, que se manifiesta en la suprema sabiduría y en la más radiante belleza, que nuestras facultades sólo pueden comprender en sus formas más primitivas, está en el centro de toda verdadera religiosidad",	
+     "autor":"ALBERT EINSTEIN"
+    },
+    {
+     "frase":"La naturaleza de los hombres soberbios y viles es mostrarse insolentes en la prosperidad",	
+     "autor":"NICOLÁS MAQUIAVELO"
+    },
+    {
+     "frase":"Cada cosa se esfuerza siempre en perseverar en su ser",	
+     "autor":"SPINOZA"
+    },
+    {
+     "frase":"La verdad nunca triunfa enseguida",	
+     "autor":"JACQUES BERGIER"
+    },
+    {
+     "frase":"La religión desaparecerá cuando desaparezca la muerte",	
+     "autor":"CASTELAR"
+    },
+    {
+     "frase":"Lo falso, por mucho que crezca en poderío, nunca puede elevarse a la verdad",	
+     "autor":"R. TAGORE"
+    },
+    {
+     "frase":"No es en los hombres, sino en las cosas mismas, donde es preciso buscar la verdad",	
+     "autor":"PLATÓN"
+    },
+    {
+     "frase":"La religión es necesaria en todas las sociedades y más aún en las democracias",	
+     "autor":"A. TOCQUEVILLE"
+    },
+    {
+     "frase":"Todos los asuntos tienen dos asas: por una son manejables, por la otra no",	
+     "autor":"EPÍCTETO"
+    },
+    {
+     "frase":"Solo puede discreparse profundamente de aquello que realmente se estima",	
+     "autor":"RENAN"
+    },
+    {
+     "frase":"No es la unanimidad la que nos mantiene unidos, sino la conversación",	
+     "autor":"MIGUEL DE UNAMUNO"
+    },
+    {
+     "frase":"El verdadero tesoro del hombre es el tesoro de sus errores",	
+     "autor":"ORTEGA"
+    },
+    {
+     "frase":"Excelente cosa es tener la fuerza de un gigante; pero usar de ella como un gigante es propio de un enano",	
+     "autor":"SHAKESPEARE"
+    },
+    {
+     "frase":"La buena amistad no debe ser sospechosa en nada",	
+     "autor":"CERVANTES"
+    },
+    {
+     "frase":"Hay una fuerza motriz más poderosa que el vapor, la electricidad y la energía atómica: la voluntad",	
+     "autor":"EINSTEIN"
+    },
+    {
+     "frase":"La vida es en parte lo que nosotros hacemos y en parte lo que hacen los amigos que elegimos",	
+     "autor":"TENNESSEE WILLIAMS"
+    },
+    {
+     "frase":"Vivimos en el mundo cuando amamos. Sólo una vida vivida para los demás merece la pena de ser vivida",	
+     "autor":"EINSTEIN"
+    },
+    {
+     "frase":"Concluí que para hacer la más pequeña fortuna, más valía decir cuatro palabras a la amante del rey que escribir cien volúmenes",	
+     "autor":"VOLTAIRE (Memorias)"
+    },
+    {
+     "frase":"Mi vida se va acabando y al paso de las efemérides de mis pulsos, que, a más tardar, acabarán su carrera este domingo, acabaré yo la de mi vida (...) Adiós, gracias; adiós, donaires; adiós, regocijados amigos; que yo me voy muriendo, y deseando veros presto contentos en la otra vida",	
+     "autor":"CERVANTES",
+     "extra":"Prólogo del Persiles y despedida de la vida de su autor, el 20/4/1616"
+    },
+    {
+     "frase":"Creo que con el tiempo mereceremos no tener gobiernos",	
+     "autor":"BORGES"
+    },
+    {
+     "frase":"Todo es sueño y vanidad, los hombres como niños que riñen, los sentidos débiles y propensos al engaño. ¿Quién podría retenerte? Subiste a bordo de tu barca y cruzaste con ella el mar; ahora has arribado a puerto y te toca desembarcar",	
+     "autor":"MARCO AURELIO"
+    },
+    {
+     "frase":"El pueblo quiere recetas",	
+     "autor":"GALENO"
+    },
+    {
+     "frase":"Si has perdido una mujer, busca rápido otra",	
+     "autor":"HEINE"
+    },
+    {
+     "frase":"¡Que el cielo nos guarde de los tiempos interesantes!",	
+     "autor":"CONFUCIO"
+    },
+    {
+     "frase":"Hubo un tiempo en que no podíamos resistir nuestros vicios ni sus remedios",	
+     "autor":"TÁCITO"
+    },
+    {
+     "frase":"Si abordas una situación como asunto de vida o muerte, morirás muchas veces",	
+     "autor":"ADAM SMITH"
+    },
+    {
+     "frase":"Quien es auténtico asume la responsabilidad por ser lo que es",	
+     "autor":"J.P. SARTRE. "
+    },
+    {
+     "frase":"El tiempo es la distancia más larga entre dos lugares",	
+     "autor":"TENNESSEE WILLIAMS"
+    },
+    {
+     "frase":"Ya de niño adquirá, no sabría decir cómo, una prodigiosa convicción, un entusiasmo o una especie de locura, que me hacía desdeñar las opiniones corrientes y buscar la verdad y el saber por mi cuenta, persuadido de que el hombre no puede aspirar a nada más alto sino a la posesión de esos dones divinos",	
+     "autor":"GALENO. Libro VII Sobre Terapéutica"
+    },
+    {
+     "frase":"¿Qué somos? Somos un pueblo de pordioseros arrogantes",	
+     "autor":"M. UNAMUNO"
+    },
+    {
+     "frase":"Las elecciones sirven no para meter al bueno, sino para echar al malo",	
+     "autor":"K. POPPER"
+    },
+    {
+     "frase":"En la vida hay algo peor que el fracaso: el no haber intentado nada",	
+     "autor":"F.D. ROOSEVELT"
+    },
+    {
+     "frase":"Las vanas pretensiones caen al suelo como las flores. Lo falso no dura mucho",	
+     "autor":"CICERÓN"
+    },
+    {
+     "frase":"Aprobarlo todo suele ser ignorancia; reprocharlo todo, malicia",	
+     "autor":"BALTASAR GRACIÁN"
+    },
+    {
+     "frase":"La ley debe ser como la muerte, que no exceptúa a nadie",	
+     "autor":"MONTESQUIEU"
+    },
+    {
+     "frase":"La injusticia que resulta conveniente se convierte rápidamente en justicia",	
+     "autor":"G. LE BON"
+    },
+    {
+     "frase":"Una mala conciencia se soporta mejor que una mala reputación",	
+     "autor":"F. NIETZSCHE. "
+    },
+    {
+     "frase":"La verdadera manera de ir al Paraíso es conocer el camino del infierno y rehuirlo",	
+     "autor":"MAQUIAVELO"
+    },
+    {
+     "frase":"Para Adán, el paraíso era donde estaba Eva",	
+     "autor":"MARK TWAIN"
+    },
+    {
+     "frase":"Un aburrido es uno que te priva de la soledad sin ofrecerte compañía",	
+     "autor":"GIAN VINCENZO GRAVINIA"
+    },
+    {
+     "frase":"Para triunfar en la lucha por la vida, el hombre ha de tener una gran inteligencia o un corazón de piedra",	
+     "autor":"M.GORKI"
+    },
+    {
+     "frase":"Esta maldita Guerra de España fue la causa primera de todas las desgracias de Francia. Todas las circunstancias de mis desastres se relacionan con este nudo fatal: destruyó mi autoridad moral en Europa, complicó mis dificultades, abrió una escuela a los soldados ingleses... esta maldita guerra me ha perdido",	
+     "autor":"NAPOLEÓN BONAPARTE"
+    },
+    {
+     "frase":"La tecnología está dominada por dos clases de personas: las que entienden lo que no dirigen y las que dirigen lo que no entienden",	
+     "autor":"LEY DE PUTT"
+    },
+    {
+     "frase":"El viajero es pájaro que viaja con la jaula",	
+     "autor":"ADOLFO BIOY CASARES"
+    },
+    {
+     "frase":"Para que el viaje fuera una solución y no un simple alivio, el que se va no debiera llevarse",	
+     "autor":"ADOLFO BIOY CASARES"
+    },
+    {
+     "frase":"Sólo la fenomenología disipa la ilusión que nos impulsa a convertir lo lógico objetivo en psicológico",	
+     "autor":"EDMUND HUSSERL"
+    },
+    {
+     "frase":"¡Qué amable cosa es el hombre cuando es verdaderamente hombre!",	
+     "autor":"MENANDRO (343-290 a.C)"
+    },
+    {
+     "frase":"Los débiles tiemblan ante la opinión, los tontos la desafían, los sabios la juzgan, los expertos la dirigen",	
+     "autor":"M.J.R. DE LA PLATERIE"
+    },
+    {
+     "frase":"La Guerra es la santificación del Homicidio",	
+     "autor":"MIGUEL DE UNAMUNO"
+    },
+    {
+     "frase":"Antes de negar con la cabeza, asegúrate de que la tienes",	
+     "autor":"TRUMAN CAPOTE "
+    },
+    {
+     "frase":"La tontería se coloca siempre en primera fila para ser vista; la inteligencia detrás, para ver",	
+     "autor":"ISABEL DE RUMANÍA"
+    },
+    {
+     "frase":"Para obtener éxito en el mundo, hay que parecer loco y ser sabio",	
+     "autor":"MONTESQUIEU"
+    },
+    {
+     "frase":"Si no disfrutas de libertad interior, ¿qué otra libertad esperas gozar?",	
+     "autor":"ARTURO GRAFF"
+    },
+    {
+     "frase":"Si pretendes acertar, aprende a escuchar con atención",	
+     "autor":"J.C. LAVATER"
+    },
+    {
+     "frase":"El entusiasmo es el pan diario de la juventud. El escepticismo, el vino diario de la vejez",	
+     "autor":"PEARL S. BUCK"
+    },
+    {
+     "frase":"El tiempo se lo lleva todo, incluso la memoria",	
+     "autor":"VIRGILIO"
+    },
+    {
+     "frase":"Aquellos impecables autores son los que nunca escribieron",	
+     "autor":"W. HAZLITT"
+    },
+    {
+     "frase":"La verdad se corrompe tanto con la mentira como con el silencio",	
+     "autor":"CICERÓN"
+    },
+    {
+     "frase":"Un organismo en lucha consigo mismo está condenado",	
+     "autor":"CARL SAGAN"
+    },
+    {
+     "frase":"No es tan culpable el que desconoce un deber como el que lo pisa",	
+     "autor":"CONCEPCIÓN ARENAL"
+    },
+    {
+     "frase":"Las mismas culpas hallan diversa suerte",	
+     "autor":"JUVENAL"
+    },
+    {
+     "frase":"Los partidos políticos sirven para mantener a cada uno bajo la vigilancia del otro",	
+     "autor":"HENRY CLAY"
+    },
+    {
+     "frase":"La gramática es necesidad para los niños y gozo para la edad provecta",	
+     "autor":"QUINTILIANO"
+    },
+    {
+     "frase":"El vicio de la inacción tiene una ventaja sobre los demás: no exige nada",	
+     "autor":"JAIME BALMES"
+    },
+    {
+     "frase":"Cuando un médico va detrás del féretro del paciente, a veces la causa sigue al efecto",	
+     "autor":"R. KOCH"
+    },
+    {
+     "frase":"La verdad es lo que es/ Y sigue siendo verdad/ Aunque se piense al revés",	
+     "autor":"ANTONIO MACHADO"
+    },
+    {
+     "frase":"El fracaso señala que es tiempo de cambiar la dirección",	
+     "autor":"J. MAXWELL"
+    },
+    {
+     "frase":"No se puede ser y no ser algo al mismo tiempo y bajo el mismo aspecto",	
+     "autor":"ARISTÓTELES"
+    },
+    {
+     "frase":"De hombres es equivocarse; de locos, persistir en el error",	
+     "autor":"CICERÓN "
+    },
+    {
+     "frase":"Para el perezoso todos los días son festivos",	
+     "autor":"HORACIO"
+    },
+    {
+     "frase":"Difícil prueba es guardar un secreto peligroso",	
+     "autor":"ALONSO DE ERCILLA"
+    },
+    {
+     "frase":"Para ir delante de los demás se necesita ver más que ellos",	
+     "autor":"JOSÉ MARTÍ"
+    },
+    {
+     "frase":"Nada envalentona tanto al pecador como el perdón",	
+     "autor":"W. SHAKESPEARE"
+    },
+    {
+     "frase":"La prensa es la artillería de la libertad",	
+     "autor":"HANS DIETRICH GENSCHER"
+    },
+    {
+     "frase":"El éxito se lo llevan los fuertes, y el fracaso los débiles",	
+     "autor":"O. WILDE"
+    },
+    {
+     "frase":"El ejemplo es una lección que todos los hombres pueden leer",	
+     "autor":"MORRIS WEST"
+    },
+    {
+     "frase":"Preocúpate del sentido y las palabras saldrán por cuenta propia",	
+     "autor":"LEWIS CARROLL"
+    },
+    {
+     "frase":"Tarde o temprano, el castigo alcanza al culpable",	
+     "autor":"LOUIS-BENOÎT PICARD"
+    },
+    {
+     "frase":"¡Libertad, cuántos crímenes se cometen en tu nombre!",	
+     "autor":"MADAME ROLAND",
+     "extra":"Al subir al cadalso"
+    },
+    {
+     "frase":"Esencial para la justicia es hacerla sin diferirla. Hacerla esperar es injusticia",	
+     "autor":"JEAN LA BRUYÈRE",
+     "extra":"Su tumba fue profanada durante la Revolución"
+    },
+    {
+     "frase":"Las improvisaciones son mejores cuando se las prepara",	
+     "autor":"W. Shakespeare"
+    },
+    {
+     "frase":"Todo ser ha venido al mundo para aliviar la soledad de otro ser",	
+     "autor":"M. Delibes"
+    },
+    {
+     "frase":"Y así va el mundo. Hay veces que deseo que Noé y su comitiva hubiesen perdido el barco",	
+     "autor":"Mark Twain"
+    },
+    {
+     "frase":"Cada vez que se encuentre usted del lado de la mayoría, es tiempo de hacer una pausa y reflexionar",	
+     "autor":"M. Twain"
+    },
+    {
+     "frase":"Cuando la estafa es enorme ya toma un nombre decente",	
+     "autor":"Pérez de Ayala"
+    },
+    {
+     "frase":"El fuero para el gran ladrón, la cárcel para el que roba un pan",	
+     "autor":"Pablo Neruda"
+    },
+    {
+     "frase":"Sentarse a leer dos minutos y que parezcan dos horas, o sentarse a charlar con una bella dama dos horas y que parezcan dos minutos ¡eso es relatividad!",	
+     "autor":"Albert Einstein"
+    },
+    {
+     "frase":"El amor a lo Don Juan no es más que afición a la caza",	
+     "autor":"A. Maurois"
+    },
+    {
+     "frase":"El cobarde solo amenaza cuando está a salvo",	
+     "autor":"J.W. Goethe"
+    },
+    {
+     "frase":"Información es algo que alguien no quiere que se sepa. El resto es publicidad",	
+     "autor":"Lord Northcliffe"
+    },
+    {
+     "frase":"Da lo que tienes, para que merezcas recibir lo que te falta",	
+     "autor":"San Agustín"
+    },
+    {
+     "frase":"Nada sucede hasta que algo se mueve",	
+     "autor":"Albert Einstein"
+    },
+    {
+     "frase":"Es más fácil luchar por unos principios que vivir de acuerdo con ellos",	
+     "autor":"Alfred Adler"
+    },
+    {
+     "frase":"El futuro nos tortura y el pasado nos encadena. Por eso se escapa el presente",	
+     "autor":"Gustavo Flaubert"
+    },
+    {
+     "frase":"La mentira más común es aquella con la que uno se engaña a sí mismo",	
+     "autor":"F. Nietzsche"
+    },
+    {
+     "frase":"Un pueblo sin literatura es un pueblo mudo",	
+     "autor":"M. Delibes"
+    },
+    {
+     "frase":"El cerebro no es un vaso por llenar, sino una lámpara por encender",	
+     "autor":"Plutarco"
+    },
+    {
+     "frase":"El príncipe debe aparecer como un dechado de virtudes, pero luego para defender al Estado debe infringir sin escrúpulos las reglas de la lealtad, de la amistad, de la humanidad y de la religión",	
+     "autor":"MAQUIAVELO. 'El Príncipe'"
+    },
+    {
+     "frase":"Quien no contemple el campo de batalla con los ojos secos, provocará inúltimente la muerte de muchos hombres",	
+     "autor":"NAPOLEÓN BONAPARTE"
+    },
+    {
+     "frase":"Nadie puede sospechar cuántas idioteces políticas se han evitado gracias a la falta de dinero",	
+     "autor":"TALLEYRAND"
+    },
+    {
+     "frase":"Tiene más disculpa quien peca por la paga que quien paga por pecar",	
+     "autor":"TERESA DE JESÚS"
+    },
+    {
+     "frase":"En la vida no hay premios ni castigos, sino consecuencias",	
+     "autor":"R.G. INGERSOLL"
+    },
+    {
+     "frase":"La falsedad gobierna nuestro mundo",	
+     "autor":"GEORG ROLLENHAGEN"
+    },
+    {
+     "frase":"Miro a mi bancada parlamentaria y no encuentro un solo amigo",	
+     "autor":"W.S. CHURCHILL",
+     "extra":"Cuando pertenecía al Partido Laborista"
+    },
+    {
+     "frase":"Gobernar consiste en hacer callar a quien plantea problemas",	
+     "autor":"GIULIO ANDREOTTI"
+    },
+    {
+     "frase":"La derrota siempre es huérfana",	
+     "autor":"JFK"
+    },
+    {
+     "frase":"En un espíritu corrompido no cabe el honor",	
+     "autor":"TÁCITO"
+    },
+    {
+     "frase":"Las leyes inútiles debilitan a las necesarias",	
+     "autor":"MONTESQUIEU"
+    },
+    {
+     "frase":"Las ganancias mal logradas reportan pérdidas",	
+     "autor":"EURÍPIDES"
+    },
+    {
+     "frase":"Si no peleas para acabar con la corrupción, acabarás formando parte de ella",	
+     "autor":"JOAN BÁEZ"
+    },
+    {
+     "frase":"Sabe de cierto que no hay hoy disparate en el mundo tan grande que no tenga ley que lo apoye. Y mira si no hay mayor disparate que no beber vino y no comer tocino, y tiene la ley de Mahoma que lo abone",	
+     "autor":"QUEVEDO (Obras satíricas y festivas)"
+    },
+    {
+     "frase":"La religión es el suspiro de la criatura oprimida, el corazón de un mundo sin corazón, así como es el espíritu de una situación carente de espíritu. Es el opio del pueblo",	
+     "autor":"KARL MARX",
+     "extra":"Contribución a la 'Crítica de la Filosofía del Derecho' de HEGEL"
+    },
+    {
+     "frase":"En ningún campo es tan patente que las morales constituidas en detrimento de las necesidades naturales son falsas como en el campo sexual",	
+     "autor":"FILIPPO TURATI"
+    },
+    {
+     "frase":"La ciencia no ha podido demostrar ni que todos los hombres son iguales ni que el comportarse según este principio sea a la larga útil",	
+     "autor":"F. NIETZSCHE"
+    },
+    {
+     "frase":"En un Estado verdaderamente libre, el pensamiento y la palabra deben ser libres",	
+     "autor":"SUETONIO"
+    },
+    {
+     "frase":"Si no hay café para todos, no habrá para nadie",	
+     "autor":"ERNESTO 'CHE' GUEVARA"
+    },
+    {
+     "frase":"No hay necedad que no haya sido dicha por un filósofo",	
+     "autor":"CICERÓN"
+    },
+    {
+     "frase":"Las malas leyes son la peor especie de tiranía",	
+     "autor":"EDMUND BURKE"
+    },
+    {
+     "frase":"Permítanme controlar y acuñar el dinero de una nación y no me importará quien haga sus leyes",	
+     "autor":"NATHAN MEYER ROTSCHILD (1838)"
+    },
+    {
+     "frase":"El hombre no es más que lo que la educación hace de él",	
+     "autor":"KANT"
+    },
+    {
+     "frase":"El nacionalismo es una enfermedad infantil. Es el sarampión de la Humanidad",	
+     "autor":"EINSTEIN"
+    },
+    {
+     "frase":"En política, dos y dos no siempre tienen que sumar cuatro",	
+     "autor":"ROMERO ROBLEDO"
+    },
+    {
+     "frase":"La primera víctima de la guerra es la verdad",	
+     "autor":"H.W. JOHNSON"
+    },
+    {
+     "frase":"Algún hechizo o constricción física les induce a rechazar, olvidándola, la opinión de que se debe hacer lo que es mejor para el Estado",	
+     "autor":"PLATÓN"
+    },
+    {
+     "frase":"De todos es conocido que la gente de 'Puritania' piensa que la tierra es plana",	
+     "autor":"C.S. LEWIS"
+    },
+    {
+     "frase":"Antes de 1773 no hay ningún libro que hable de neurosis",	
+     "autor":"GODFRIED DANNEELS"
+    },
+    {
+     "frase":"Cuando aún no existían los derechos del hombre, los tenía el privilegiado. Después se estableció la igualdad, en cuanto se quitaron al privilegiado los derechos del hombre",	
+     "autor":"KARL KRAUS"
+    },
+    {
+     "frase":"Lo más sólido que la vida ha inventado hasta ahora es la muerte",	
+     "autor":"EMILE CIORAN"
+    },
+    {
+     "frase":"Hemos de adaptarnos al presente aunque nos parezca mejor el pasado",	
+     "autor":"BALTASAR GRACIÁN"
+    },
+    {
+     "frase":"La utopía de un siglo determinado con frecuencia se convierte en una idea vulgar para el siglo siguiente",	
+     "autor":"CARLO DOSSI"
+    },
+    {
+     "frase":"No son los hombres los que guían la revolución, es la revolución la que utiliza a los hoombres",	
+     "autor":"JOSEPH DE MAISTRE"
+    },
+    {
+     "frase":"Llamar soberano al rey Fernando VII es un crímen de Estado",	
+     "autor":"ÁLVARO FLÓREZ ESTRADA",
+     "extra":"Discusión sobre el proyecto de constitución de 1809"
+    },
+    {
+     "frase":"El último grado de la perversidad es hacer servir las leyes para la injusticia",	
+     "autor":"VOLTAIRE"
+    },
+    {
+     "frase":"El nacionalismo es hambre de poder atemperada por el autoengaño",	
+     "autor":"G. ORWELL"
+    },
+    {
+     "frase":"Podemos observar en la república de los perros que todo el Estado disfruta de la paz más absoluta después de una comida abundante, y que surgen entre ellos contiendas civiles tan pronto como un hueso grande viene a caer en poder de algún perro principal, el cual lo reparte con unos pocos, estableciendo una oligarquía, o lo conserva para sí, estableciendo una tiranía",	
+     "autor":"J. SWIFT"
+    },
+    {
+     "frase":"Una sola cosa explica bien la Historia: en qué consisten los malos gobiernos",	
+     "autor":"THOMAS JEFFERSON"
+    },
+    {
+     "frase":"El cobarde se llama a sí mismo prudente",	
+     "autor":"PUBLIO SIRO"
+    },
+    {
+     "frase":"El que miente necesita tener buena memoria",	
+     "autor":"QUINTILIANO"
+    },
+    {
+     "frase":"Nada hay más injusto que buscar premio en la Justicia",	
+     "autor":"CICERÓN"
+    },
+    {
+     "frase":"El vulgo se deja llevar bobaliconamente por las apariencias",	
+     "autor":"N. MAQUIAVELO (El Príncipe)"
+    },
+    {
+     "frase":"La necedad es la madre de todos los males",	
+     "autor":"CICERÓN"
+    },
+    {
+     "frase":"Voy a hacer un pronóstico: puede pasar cualquier cosa",	
+     "autor":"ROY ATKINSON"
+    },
+    {
+     "frase":"Hay que vigilar a los ministros que no pueden hacer nada sin dinero",	
+     "autor":"INDIRA GANDHI"
+    },
+    {
+     "frase":"En materia de gobierno todo cambio es sospechoso, aunque sea para mejor",	
+     "autor":"FRANCIS BACON"
+    },
+    {
+     "frase":"Los vientos y las olas están siempre de parte del buen timonel",	
+     "autor":"E. GIBBON"
+    },
+    {
+     "frase":"Nada es irreparable en política",	
+     "autor":"JEAN ANOUILH"
+    },
+    {
+     "frase":"El derecho riguroso es una especie de injusticia",	
+     "autor":"CICERÓN"
+    },
+    {
+     "frase":"El traidor no es otra cosa que un déspota en apuros",	
+     "autor":"VICTOR HUGO"
+    },
+    {
+     "frase":"En las épocas convenientes del año debe tener ocupados a los pueblos con fiestas y espectáculos",	
+     "autor":"NICOLÁS MAQUIAVELO (El Príncipe)"
+    },
+    {
+     "frase":"La economía consiste en saber gastar y el ahorro en saber guardar",	
+     "autor":"O. SWETT MARDEN"
+    },
+    {
+     "frase":"Los pueblos se enlazan con la muerte el día que se disocian de su historia",	
+     "autor":"VÁZQUEZ DE MELLA"
+    },
+    {
+     "frase":"Es preciso saber lo que se quiere y hay que tener el valor de decirlo",	
+     "autor":"CLEMENCEAU"
+    },
+    {
+     "frase":"Para el hombre prudente es más fácil prevenir que remediar",	
+     "autor":"B. GRACIÁN"
+    },
+    {
+     "frase":"No puedes escaparte de la responsabilidad de mañana al evadirla hoy",	
+     "autor":"ABRAHAM LINCOLN"
+    },
+    {
+     "frase":"El bien del pueblo es la suprema ley",	
+     "autor":"CICERÓN"
+    },
+    {
+     "frase":"La más peligrosa de todas las debilidades es el temor de parecer débil",	
+     "autor":"J.B. BOSSUET"
+    },
+    {
+     "frase":"No hay hombre curioso que sea de condición malévola",	
+     "autor":"PLAUTO"
+    },
+    {
+     "frase":"Para los que tienen ambición de poder no hay término medio entre cima y abismo",	
+     "autor":"TÁCITO"
+    },
+    {
+     "frase":"En las cosas necesarias, la unidad y en las dudosas, la libertad",	
+     "autor":"SAN AGUSTÍN"
+    },
+    {
+     "frase":"Es preciso preferir la soberanía de la ley a la de uno de los ciudadanos",	
+     "autor":"ARISTÓTELES"
+    },
+    {
+     "frase":"Con Tolstoi tenemos suficiente y no necesitamos nada más",	
+     "autor":"CHEJOV"
+    },
+    {
+     "frase":"Se hace más daño con el ejemplo que con el pecado",	
+     "autor":"CICERÓN"
+    },
+    {
+     "frase":"Para investigar la verdad es preciso dudar, en cuanto sea posible, de todas las cosas",	
+     "autor":"DESCARTES"
+    },
+    {
+     "frase":"Hasta la supervivencia de una banda de ladrones necesita de la lealtad recíproca",	
+     "autor":"A. GENOVESI"
+    },
+    {
+     "frase":"El que dice una mentira no sabe qué tarea ha asumido, porque está obligado a inventar 20 más para sostener esta primera",	
+     "autor":"A. POPE"
+    },
+    {
+     "frase":"Confiar nuestro dinero al Gobierno es como confiar nuestro canario a un gato hambriento",	
+     "autor":"H. SENHOLZ"
+    },
+    {
+     "frase":"La democracia verdadera significa no una rendición impotente ante camarillas, sino la sumisión a un líder a quien haya elegido el propio pueblo",	
+     "autor":"MAX WEBER"
+    },
+    {
+     "frase":"No cabe duda de que no hay ninguna contradicción, en principio, entre la democracia soviética y la aplicación del poder dictatorial por parte de personas individuales",	
+     "autor":"LENIN"
+    },
+    {
+     "frase":"Una situación comienza a convertirse en desesperada cuando empiezas a pensar que lo es",	
+     "autor":"WILLY BRANDT"
+    },
+    {
+     "frase":"La alternancia fecunda el suelo de la democracia",	
+     "autor":"W.S. CHURCHILL"
+    },
+    {
+     "frase":"Señal de tener gastada la fama propia es cuidar de la infamia ajena",	
+     "autor":"B. GRACIÁN"
+    },
+    {
+     "frase":"Las leyes colocan  la seguridad de todos por encima de la seguridad de uno",	
+     "autor":"CICERÓN"
+    },
+    {
+     "frase":"Lo que no está claro no es muy honrado",	
+     "autor":"A. RIVAROL"
+    },
+    {
+     "frase":"Dos cosas contribuyen a avanzar; ir más deprisa o ir por el buen camino",	
+     "autor":"DESCARTES"
+    },
+    {
+     "frase":"Está a salvo de cualquier peligro aquél que, aún estando seguro, se mantiene en guardia",	
+     "autor":"PUBLILIO SIRO"
+    },
+    {
+     "frase":"Al que juró hasta que ya nadie confió en él; mintió tanto que ya nadie le cree; y pide prestado sin que nadie le de; le conviene irse a donde nadie lo conozca",	
+     "autor":"R.W.EMERSON"
+    },
+    {
+     "frase":"El que no es inteligente, se hace político",	
+     "autor":"JARDIEL PONCELA"
+    },
+    {
+     "frase":"Cuando el delito se multiplica, nadie quere verlo",	
+     "autor":"BERTOLD BRETCH"
+    },
+    {
+     "frase":"Las oportunidades pequeñas son el principio de las grandes empresas",	
+     "autor":"DEMÓSTENES"
+    },
+    {
+     "frase":"No existe libertad para los enemigos de la libertad",	
+     "autor":"Aforismo atribuido a CICERÓN"
+    },
+    {
+     "frase":"La vida es una continua sucesión de oportunidades para sobrevivir",	
+     "autor":"GARCÍA MÁRQUEZ"
+    },
+    {
+     "frase":"Aprender sin reflexionar es malgastar la energía",	
+     "autor":"CONFUCIO. "
+    },
+    {
+     "frase":"Lector, imagínate que fueras idiota. Imagínate que fueras diputado. Pero me estoy repitiendo",	
+     "autor":"Mark Twain (1880)"
+    },
+    {
+     "frase":"Quien no ve lo que exige cada ocasión, o habla más de la cuenta, o hace ostentación de sí mismo, ése recibe el nombre de inoportuno",	
+     "autor":"M.T. CICERÓN"
+    },
+    {
+     "frase":"La ciencia rivaliza con la mitología en milagros",	
+     "autor":"Emerson"
+    },
+    {
+     "frase":"La política es quizá la única profesión para la que no se considera necesaria ninguna preparación",	
+     "autor":"R.L. Stevenson"
+    },
+    {
+     "frase":"Que los ministros cambien a menudo es un mal, pero hay otro peor: que un ministro malo no cambie nunca",	
+     "autor":"Pelet de la Lozère"
+    },
+    {
+     "frase":"El que ama de verdad no es el que enciende el fuego, sino el que lo conserva",	
+     "autor":"Carlos Fisas"
+    },
+    {
+     "frase":"Regla para la limpieza de la cristalería: La mancha que está limpiando se encuentra al otro lado",	
+     "autor":"Hamilton"
+    },
+    {
+     "frase":"Si somos felices no es por las alegrías, ni por los placeres, ni por la francachela, compañeros en la frivolidad; muchas veces encuentran también felicidad los espíritus doloridos, en la constancia y en la firmeza",	
+     "autor":"M.T. CICERÓN"
+    },
+    {
+     "frase":"La confianza en sí mismo es el primer secreto del éxito",	
+     "autor":"R.W. Emerson"
+    },
+    {
+     "frase":"La generalización de su objeto es la esencia misma de todas las ciencias",	
+     "autor":"Samuel Alexander"
+    },
+    {
+     "frase":"Los funcionarios son los empleados que el ciudadano paga para ser la víctima de su insolente vejación",	
+     "autor":"Pitigrilli"
+    },
+    {
+     "frase":"La memoria parece grande por lo que muestra en recuerdos; lo es mucho más por lo que cierta memoria esconde",	
+     "autor":"Niceto Alcalá Zamora"
+    },
+    {
+     "frase":"Aquellos que renuncian a libertades fundamentales para obtener alguna seguridad personal, no merecen ni libertad ni seguridad",	
+     "autor":"B. Franklin"
+    },
+    {
+     "frase":"El lujo arruina al rico y aumenta la miseria de los pobres",	
+     "autor":"Diderot"
+    },
+    {
+     "frase":"Incluso perdiendo se debe querer alcanzar la gloria",	
+     "autor":"Nicolás Maquiavelo"
+    },
+    {
+     "frase":"La lectura no da al hombre sabiduría; le da conocimientos",	
+     "autor":"Somerset Maugham"
+    },
+    {
+     "frase":"Para que el mal triunfe lo único necesario es que los hombres de bien no hagan nada",	
+     "autor":"Burke"
+    },
+    {
+     "frase":"El hombre es un rey cuando sueña y un mendigo cuando reflexiona",	
+     "autor":"Holderlin"
+    },
+    {
+     "frase":"La pobreza en democracia se debe preferir a la llamada prosperidad bajo los déspotas, lo mismo que la libertad a la esclavitud",	
+     "autor":"Demócrito"
+    },
+    {
+     "frase":"La risa es la distancia más corta entre dos personas",	
+     "autor":"Víctor Borge"
+    },
+    {
+     "frase":"La esperanza prospera aun en las condiciones más inadecuadas",	
+     "autor":"ALEJANDRO DOLINA"
+    },
+    {
+     "frase":"La política es la conducción de los asuntos públicos para el provecho de los particulares",	
+     "autor":"A. BIERCE"
+    },
+    {
+     "frase":"El verdadero arte de la diplomacia consiste en no perder el cargo",	
+     "autor":"SOFOCLETO"
+    },
+    {
+     "frase":"Es preferible flotar antes que hundirse bajo el peso de los principios",	
+     "autor":"STANLEY BALDWIN"
+    },
+    {
+     "frase":"Los hombres poderosos tienen manos que alcanzan lejos",	
+     "autor":" W. SHAKESPEARE"
+    },
+    {
+     "frase":"El Parlamento es un instrumento para hacer carrera, puente para pasar desde el montón de los oprimidos a la clase de los privilegiados y entrar en la parte del botín y de los honores, con carteras, direcciones, consejos, magistraturas y gobiernos civiles",	
+     "autor":"JOAQUÍN COSTA (Oligarquía y caciquismo)"
+    },
+    {
+     "frase":"El poder arbitrario constituye una tentacion natural para un príncipe",	
+     "autor":" J. SWIFT"
+    },
+    {
+     "frase":"El Gobierno es bueno cuando hace felices a los gobernados y atrae a los que viven lejos",	
+     "autor":"CONFUCIO"
+    },
+    {
+     "frase":"La cultura dominante es la cultura de la clase social dominante",	
+     "autor":"KARL MARX"
+    },
+    {
+     "frase":"Suerte es lo que sucede cuando la preparación y la oportunidad se encuentran",	
+     "autor":"VOLTAIRE"
+    },
+    {
+     "frase":"Dos palabras rectificadoras del legislador bastan para convertir bibliotecas enteras en basura",	
+     "autor":"JULIUS VON KIRCHMANN"
+    },
+    {
+     "frase":"Hay un remedio para las culpas: reconocerlas",	
+     "autor":"FRANZ GRILLPARZER"
+    },
+    {
+     "frase":"El entusiasmo es el poder de todas las grandes acciones",	
+     "autor":"A. SMITH"
+    },
+    {
+     "frase":"La soberanía del hombre está oculta en la dimensión de sus conocimientos",	
+     "autor":"F. BACON"
+    },
+    {
+     "frase":"La bohemia no tiene pancartas",	
+     "autor":"TENNESSEE WILLIAMS"
+    },
+    {
+     "frase":"Reirse de todo es propio de tontos, pero no reirse de nada lo es de estúpidos",	
+     "autor":"Erasmo de Rotterdam"
+    },
+    {
+     "frase":"Los cementerios están llenos de gente que se creía imprescindible",	
+     "autor":"Clemenceau"
+    },
+    {
+     "frase":"Nuestros sentidos están ayunos de lo que es la mujer, y ahitos de lo que parece",	
+     "autor":"Quevedo"
+    },
+    {
+     "frase":"A él (Adán) le debemos las dos cosas más preciosas... la vida y la muerte",	
+     "autor":"Mark Twain"
+    },
+    {
+     "frase":"Seamos agradecidos con Adán, nuestro benefactor. Suprimió la bendición de la vagancia y nos consiguió la maldición del trabajo",	
+     "autor":"Mark Twain"
+    },
+    {
+     "frase":"Lo importante no es elegir al gran gobernante, sino impedir que quien gobierne cause demasiado daño",	
+     "autor":"K. POPPER"
+    },
+    {
+     "frase":"No hay que prestar atención a quienes nos aconsejan, so pretexto de que somos hombres, no pensar más que en las cosas humanas y, so pretexto de que somos mortales, renunciar a las cosas inmortales",	
+     "autor":"ARISTÓTELES"
+    },
+    {
+     "frase":"El verdadero cansancio del hombre es el cansancio de llevarse a sí mismo. Y la huída, la de sí mismo",	
+     "autor":"ADOLFO BIOY CASARES"
+    },
+    {
+     "frase":"La maldad no es algo sobrehumano, es algo menos que humano",	
+     "autor":"AGATHA CHRISTIE"
+    },
+    {
+     "frase":"Si los hombres fuesen ángeles, el Gobierno no sería necesario",	
+     "autor":"J. MADISON"
+    },
+    {
+     "frase":"Todo poder es una conspiración permanente",	
+     "autor":"H. BALZAC"
+    },
+    {
+     "frase":"A los hombres o se les gana o se les aniquila",	
+     "autor":"MAQUIAVELO"
+    },
+    {
+     "frase":"Tengo que terminar mi obra con urgencia. Pronto, si antes un imbécil no me elimina en un atentado estúpido, seré viejo y careceré de empuje para culminar mis planes",	
+     "autor":"ADOLFO HITLER, 1939. "
+    },
+    {
+     "frase":"La vida es una especie de ajedrez",	
+     "autor":"BENJAMÍN FRANKLIN"
+    },
+    {
+     "frase":"El ajedrez es la vida",	
+     "autor":"BOBBY FISCHER",
+     "extra":"Campeón mundial de Ajedrez"
+    },
+    {
+     "frase":"Los alfiles son prelados con cuernos... Se mueven y comen oblicuamente porque casi todos los obispos abusan de su dignidad por codicia",	
+     "autor":"INOCENCIO III (1198-1216) Quaedam Moralitas de Saccario"
+    },
+
